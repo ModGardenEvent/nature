@@ -6,10 +6,6 @@
     "",
     "<font:'modfest:icons'>-0</> <font:'unsanded:default'>BlanketCon",
     "",
-    "<font:'unsanded:default'><gr #0d414e #003441><st>             </st>[ </gr><#ffdf93>Events</><gr #0d414e #003441 > ]<st>             </st>",
-    "%modfest:event 1%",
-    "%modfest:event 0%",
-    "%modfest:event_current%",
     "<font:'unsanded:default'><gr #0d414e #003441><st>              </>[ </><#ffffff>%server:online%<#003441>/</>%server:max_players%</><gr #003441 #0d414e> ]<st>              </>"
   ],
   "list_footer": [
