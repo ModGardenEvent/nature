@@ -1,27 +1,55 @@
-# Whether to replace the send feedback button with a voting button
-# default: true
-replace_feedback = true
-# Whether to replace the bug report button with another link
-# default: true
-replace_bugs = true
 # The text to use to replace the bug report button
 # default: ModFest Discord
-bug_text = "Modfest Discord"
+custom_link_text = "ModFest Discord"
 # The link to use to replace the bug report button
 # default: https://discord.gg/gn543Ee
-bug_url = "https://discord.gg/gn543Ee"
-# Whether to replace the realms button on the title screen with a credits button
-# default: true
-replace_realms_credits = true
-# Whether to replace the player reporting button on the pause screen with a credits button
-# default: true
-replace_reporting_credits = true
+custom_link_url = "https://discord.gg/gn543Ee"
 # The text to use for replacement credits but tons button
 # default: Modpack Credits
 credits_text = "Modpack Credits"
 # The number of top results to show when displaying voting results
 # default: 8
-awardLimit = 20
+awardLimit = 30
 # The closing date, as an ISO local date time - or an empty string for none
 # default: 2024-12-16T12:00:00
-closingTime = "2025-05-11T12:00:00"
+closingTime = "2025-05-19T12:00:00"
+
+# Whether to add a voting button
+[voting_button]
+	# options: INSERT_AFTER, INSERT_BEFORE, REPLACE
+	# default: REPLACE
+	action_type = "REPLACE"
+	target_button = ["menu.feedback", "menu.sendFeedback"]
+	# default: false
+	apply_in_main_menu = false
+	# default: true
+	apply_in_pause_screen = true
+
+# Whether to replace the bug report button with another link
+[custom_link_button]
+	# options: INSERT_AFTER, INSERT_BEFORE, REPLACE
+	# default: REPLACE
+	action_type = "REPLACE"
+	target_button = ["menu.reportBugs"]
+	# default: false
+	apply_in_main_menu = false
+	# default: true
+	apply_in_pause_screen = true
+
+# Whether to add a credits button
+	[credits_button]
+	# options: INSERT_AFTER, INSERT_BEFORE, REPLACE
+	# default: REPLACE
+	action_type = "REPLACE"
+	target_button = ["menu.online", "menu.playerReporting"]
+	# default: true
+	apply_in_main_menu = true
+	# default: true
+	apply_in_pause_screen = true
+
+# Settings for the reminder on the pause screen
+	[reminder_settings]
+	# default: 0
+	reminder_x_offset = 0
+	# default: 0
+	reminder_y_offset = 0
