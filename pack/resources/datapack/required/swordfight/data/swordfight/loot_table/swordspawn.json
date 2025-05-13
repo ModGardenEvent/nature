@@ -1,0 +1,491 @@
+{
+  "pools": [
+    {
+      "rolls": 10,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:woven_sword",
+          "weight": 1,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:divine_sword",
+          "weight": 1,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:enchanting_sword",
+          "weight": 1,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:poison_dagger",
+          "weight": 1,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.015
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:cursed_sword",
+          "weight": 1,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cerulean:fuchsia_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.015
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zeldacraft:magic_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.0136
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zeldacraft:master_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.004
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zeldacraft:master_sword_lv2",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.008
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zeldacraft:master_sword_lv3",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.012
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:flame_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:glow_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basicweapons:netherite_dagger",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:mechanical_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:echo_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:summoned_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:echo_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:eye_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:forest_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:necro_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:ice_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.003
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:sun_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.004
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:moon_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.004
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:sun_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.004
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:dueling_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.012
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basicweapons:diamond_dagger",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:portal_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.004
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bronze:bronze_sword",
+          "weight": 3,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.00858
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:bone_sword",
+          "weight": 4,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.017
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stellaris:steel_sword",
+          "weight": 4,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.0051
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hibernalherbs:arkonium_sword",
+          "weight": 4,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:ocean_sword",
+          "weight": 4,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.01
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:potion_sword",
+          "weight": 4,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.012
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basicweapons:bronze_dagger",
+          "weight": 4,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.0086
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "monthofswords:jeweled_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.094
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hibernalherbs:syrum_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.002
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basicweapons:iron_dagger",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.012
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basicweapons:copper_dagger",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.0172
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basicweapons:stone_dagger",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.023
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basicweapons:wooden_dagger",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.051
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basicweapons:golden_dagger",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.1
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zeldacraft:kokiri_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.012
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scriptor:bound_sword",
+          "weight": 2,
+          "functions": [
+          {
+            "function": "set_damage",
+            "damage": 0.023
+          }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "primordia:broken_sword",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}
