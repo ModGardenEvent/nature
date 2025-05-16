@@ -466,10 +466,6 @@ file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/simplefog.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 metafile = true
 
@@ -2878,6 +2874,12 @@ file = "resources/resourcepack/required/jsonpatcher-demo/assets/jsonpatcher_demo
 
 [[files]]
 file = "resources/resourcepack/required/jsonpatcher-demo/pack.mcmeta"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/glowcase/lang/en_us.json"
