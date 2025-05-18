@@ -14,7 +14,7 @@
 					{
 						"title": "Soundtrack Artist",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"erora",
 							"Nulb / Deltarisk",
 							"Superkat32",
@@ -59,7 +59,7 @@
 							"Aethyus",
 							"Ampflower 🌺",
 							"apfelrunder",
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Deadlydiamond98",
 							"Echo (CallMeEcho)",
 							"jaevy",
@@ -102,7 +102,7 @@
 					{
 						"title": "Utils Developer",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Dooji",
 							"Emi",
 							"hammy275",
@@ -124,17 +124,8 @@
 				]
 			},
 			{
-				"discipline": "Volunteer Opportunists",
+				"discipline": "Testing & Feedback",
 				"titles": [
-					{
-						"title": "Event Streaming and Recording",
-						"names": [
-							"sschr15",
-							"quat",
-							"lily",
-							"Sammy"
-						]
-					},
 					{
 						"title": "Debugging",
 						"names": [
@@ -177,31 +168,31 @@
 						]
 					},
 					{
-						"title": "Tinkering Thinkers",
+						"title": "Tinkering thinkers",
 						"names": [
 							"Ampflower 🌺"
 						]
 					},
 					{
-						"title": "EVA Debugging",
+						"title": "EVA debugging",
 						"names": [
 							"Luna (Awakened Redstone)"
 						]
 					},
 					{
-						"title": "Painter, Painter, Painter",
+						"title": "Painter, painter, painter",
 						"names": [
 							"Phanastrae"
 						]
 					},
 					{
-						"title": "Area Ranger",
+						"title": "Area liberator",
 						"names": [
 							"Tomate0613"
 						]
 					},
 					{
-						"title": "Stylish Composer",
+						"title": "Stylish composer",
 						"names": [
 							"WorldWidePixel"
 						]
@@ -228,7 +219,172 @@
 		]
 	},
 	{
-		"section": "Jam & Showcase Participants",
+		"section": "Convention Weekend & Events",
+		"disciplines": [
+			{
+				"discipline": "A/V Staff",
+				"titles": [
+					{
+						"title": "Stage A/V Engineering",
+						"names": [
+							"hama",
+							"Nulb",
+							"SlimeistDev",
+							"Sammy"
+						]
+					},
+					{
+						"title": "Event Streaming and Recording",
+						"names": [
+							"sschr15",
+							"quat",
+							"lily",
+							"Sammy"
+						]
+					},
+					{
+						"title": "Event Editing & Cataloguing",
+						"names": [
+							"Sammy"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Event Hosts",
+				"titles": [
+					{
+						"title": "BlanketCon Opening",
+						"names": [
+							"Sisby folk",
+							"Jasmine (jaskarth)",
+							"hama",
+							"Chai",
+							"afamiliarquiet",
+							"CyborgPigeon",
+							"Infinidoge",
+							"June (Khazoda)",
+							"Pyrrha",
+							"Sammy",
+							"Tropheus Jay"
+						]
+					},
+					{
+						"title": "Welcoming Mod Garden",
+						"names": [
+							"Calico",
+							"Sylv",
+							"UltrusBot"
+						]
+					},
+					{
+						"title": "Reinvent the Wheel",
+						"names": [
+							"Sylv"
+						]
+					},
+					{
+						"title": "Enchiridion - The Enchantment/Enchanting System and Minimalism",
+						"names": [
+							"Calico"
+						]
+					},
+					{
+						"title": "Mapping Worlds: the creation and design of Surveyor Map Framework",
+						"names": [
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "Cross-version and Cross-loader Mod Development",
+						"names": [
+							"Zbx1425"
+						]
+					},
+					{
+						"title": "The Server Side Modding in 2025 (or how things constantly change)",
+						"names": [
+							"Patbox"
+						]
+					},
+					{
+						"title": "Modding From the Ground Up: An Introduction to Cichlid",
+						"names": [
+							"Tropheus Jay"
+						]
+					},
+					{
+						"title": "Think Outside the Block: Improving Content Mods with Game Design Fundamentals",
+						"names": [
+							"LemmaEOF",
+							"hama"
+						]
+					},
+					{
+						"title": "How does Translucency Sorting work in Sodium?",
+						"names": [
+							"douira"
+						]
+					},
+					{
+						"title": "How (not) to run a ModFest",
+						"names": [
+							"Sisby folk",
+							"hama"
+						]
+					},
+					{
+						"title": "Building Mods for VR",
+						"names": [
+							"hammy275"
+						]
+					},
+					{
+						"title": "Just Enough Opinions Live Recording",
+						"names": [
+							"G_cat",
+							"frog",
+							"Akoto090"
+						]
+					},
+					{
+						"title": "Modrinth Q&A",
+						"names": [
+							"Prospector",
+							"Geometrically",
+							"Emmaffle"
+						]
+					},
+					{
+						"title": "Sew the Spire: Adding a Mod Loader to a Game that Has a Mod Loader",
+						"names": [
+							"sschr15"
+						]
+					},
+					{
+						"title": "Closing Ceremony",
+						"names": [
+							"Sisby folk",
+							"Jasmine (jaskarth)",
+							"Nulb",
+							"acikek",
+							"LemmaEOF",
+							"hama",
+							"afamiliarquiet",
+							"CyborgPigeon",
+							"Lgmrszd",
+							"Pyrrha",
+							"Sammy",
+							"TheEpicBlock",
+							"Tropheus Jay"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"section": "Convention World Showcase",
 		"disciplines": [
 			{
 				"discipline": "Showcase Teams",
@@ -260,12 +416,6 @@
 						"title": "Alchimiae Magicae",
 						"names": [
 							"blur"
-						]
-					},
-					{
-						"title": "All-Terrain Tripodal Attackers",
-						"names": [
-							"SkyNotTheLimit"
 						]
 					},
 					{
@@ -325,6 +475,12 @@
 						]
 					},
 					{
+						"title": "All-Terrain Tripodal Attackers",
+						"names": [
+							"SkyNotTheLimit"
+						]
+					},
+					{
 						"title": "Autocut",
 						"names": [
 							"skycatminepokie"
@@ -339,15 +495,7 @@
 					{
 						"title": "AutoWhitelist",
 						"names": [
-							"Luna (Awakened Redstone)"
-						]
-					},
-					{
-						"title": "Bad Apple Shader",
-						"names": [
-							"Ampflower 🌺",
-							"Thinkseal",
-							"Blurry"
+							"Awakened Redstone"
 						]
 					},
 					{
@@ -359,7 +507,7 @@
 					{
 						"title": "Barricade",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"UltrusBot",
 							"Sylv",
 							"Kneelawk"
@@ -391,9 +539,9 @@
 						]
 					},
 					{
-						"title": "Block Breaker & Block Placer",
+						"title": "Motschen's Better Leaves",
 						"names": [
-							"Khazoda"
+							"Motschen"
 						]
 					},
 					{
@@ -443,10 +591,16 @@
 					{
 						"title": "Bovines and Buttercups (Mooblooms)",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Octal",
 							"UltrusBot",
 							"Kneelawk"
+						]
+					},
+					{
+						"title": "Block Breaker & Block Placer",
+						"names": [
+							"Khazoda"
 						]
 					},
 					{
@@ -462,9 +616,15 @@
 						]
 					},
 					{
+						"title": "Patbox's Brewery",
+						"names": [
+							"Patbox"
+						]
+					},
+					{
 						"title": "Brewin' And Chewin'",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Probleyes"
 						]
 					},
@@ -472,6 +632,12 @@
 						"title": "Bronze",
 						"names": [
 							"Khazoda"
+						]
+					},
+					{
+						"title": "Vortex",
+						"names": [
+							"Bug1312"
 						]
 					},
 					{
@@ -528,6 +694,12 @@
 						"title": "Carnival Cuisine",
 						"names": [
 							"ToastTextures"
+						]
+					},
+					{
+						"title": "Polymer Patch for CC:Tweaked",
+						"names": [
+							"Patbox"
 						]
 					},
 					{
@@ -641,7 +813,7 @@
 					{
 						"title": "Default Components",
 						"names": [
-							"Luna (Awakened Redstone)"
+							"Awakened Redstone"
 						]
 					},
 					{
@@ -657,14 +829,6 @@
 						]
 					},
 					{
-						"title": "Dream Burst Spirit Vector",
-						"names": [
-							"hama",
-							"Nulb",
-							"VirtuaLilith"
-						]
-					},
-					{
 						"title": "Electromechanics",
 						"names": [
 							"chyz",
@@ -676,7 +840,7 @@
 						"title": "Enchiridion",
 						"names": [
 							"Omniv",
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Octal",
 							"UltrusBot",
 							"Kneelawk"
@@ -748,7 +912,7 @@
 					{
 						"title": "Farmer's Delight Refabricated",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"vectorwing"
 						]
 					},
@@ -763,6 +927,12 @@
 						"title": "Fletching Expanded",
 						"names": [
 							"supertoady"
+						]
+					},
+					{
+						"title": "Vanillin",
+						"names": [
+							"Jozufozu"
 						]
 					},
 					{
@@ -799,12 +969,6 @@
 						"title": "Hackcraft",
 						"names": [
 							"Cyao"
-						]
-					},
-					{
-						"title": "Happy Pride Moth!",
-						"names": [
-							"DakotaPride"
 						]
 					},
 					{
@@ -904,16 +1068,16 @@
 						]
 					},
 					{
+						"title": "Item Descriptions",
+						"names": [
+							"cassiancc"
+						]
+					},
+					{
 						"title": "It's as Shrimple as That",
 						"names": [
 							"Tropheus Jay",
 							"Carter"
-						]
-					},
-					{
-						"title": "Item Descriptions",
-						"names": [
-							"cassiancc"
 						]
 					},
 					{
@@ -958,7 +1122,7 @@
 					{
 						"title": "KRender",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Kneelawk"
 						]
 					},
@@ -1050,7 +1214,7 @@
 					{
 						"title": "Mod Garden",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Octal",
 							"UltrusBot",
 							"Sylv"
@@ -1075,12 +1239,6 @@
 						]
 					},
 					{
-						"title": "Motschen's Better Leaves",
-						"names": [
-							"Motschen"
-						]
-					},
-					{
 						"title": "Moue Milkshakes",
 						"names": [
 							"Stereo528"
@@ -1101,7 +1259,7 @@
 					{
 						"title": "My Nether's Delight Refabricated",
 						"names": [
-							"Calico (MerchantCalico)"
+							"Calico"
 						]
 					},
 					{
@@ -1162,18 +1320,18 @@
 						]
 					},
 					{
-						"title": "Oxide",
-						"names": [
-							"keyberries",
-							"ordana"
-						]
-					},
-					{
 						"title": "oωo (owo-lib)",
 						"names": [
 							"chyz",
 							"Blodhgarm",
 							"glisco"
+						]
+					},
+					{
+						"title": "Oxide",
+						"names": [
+							"keyberries",
+							"ordana"
 						]
 					},
 					{
@@ -1192,12 +1350,6 @@
 						"title": "Partnership",
 						"names": [
 							"Sammy"
-						]
-					},
-					{
-						"title": "Patbox's Brewery",
-						"names": [
-							"Patbox"
 						]
 					},
 					{
@@ -1279,7 +1431,7 @@
 						]
 					},
 					{
-						"title": "Polaroid Camera",
+						"title": "Polaroid Camera ",
 						"names": [
 							"CyborgPigeon"
 						]
@@ -1321,12 +1473,6 @@
 						]
 					},
 					{
-						"title": "Polymer Patch for CC:Tweaked",
-						"names": [
-							"Patbox"
-						]
-					},
-					{
 						"title": "Polysit",
 						"names": [
 							"Ampflower 🌺"
@@ -1349,6 +1495,12 @@
 						"title": "PPeTP",
 						"names": [
 							"TheEpicBlock"
+						]
+					},
+					{
+						"title": "Happy Pride Moth!",
+						"names": [
+							"DakotaPride"
 						]
 					},
 					{
@@ -1417,7 +1569,7 @@
 						"title": "Rapscallions and Rockhoppers (Penguins)",
 						"names": [
 							"Omniv",
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Octal",
 							"UltrusBot",
 							"Kneelawk"
@@ -1466,6 +1618,12 @@
 						]
 					},
 					{
+						"title": "Stfu",
+						"names": [
+							"Felix"
+						]
+					},
+					{
 						"title": "Shyvv's Trickier Trials",
 						"names": [
 							"Shyvv"
@@ -1474,7 +1632,7 @@
 					{
 						"title": "Silicate",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"UltrusBot",
 							"Sylv",
 							"Kneelawk"
@@ -1533,6 +1691,14 @@
 						]
 					},
 					{
+						"title": "Dream Burst Spirit Vector",
+						"names": [
+							"hama",
+							"Nulb",
+							"VirtuaLilith"
+						]
+					},
+					{
 						"title": "SplashFox",
 						"names": [
 							"LX86"
@@ -1558,9 +1724,11 @@
 						]
 					},
 					{
-						"title": "Stfu",
+						"title": "Bad Apple Shader",
 						"names": [
-							"Felix"
+							"Ampflower 🌺",
+							"Thinkseal",
+							"Blurry"
 						]
 					},
 					{
@@ -1673,12 +1841,6 @@
 						]
 					},
 					{
-						"title": "Vanillin",
-						"names": [
-							"Jozufozu"
-						]
-					},
-					{
 						"title": "Variant Swap",
 						"names": [
 							"Dooji"
@@ -1697,12 +1859,6 @@
 						]
 					},
 					{
-						"title": "Vortex",
-						"names": [
-							"Bug1312"
-						]
-					},
-					{
 						"title": "Wandering Rana",
 						"names": [
 							"UltrusBot"
@@ -1711,7 +1867,7 @@
 					{
 						"title": "Wandering Wizardry",
 						"names": [
-							"Calico (MerchantCalico)",
+							"Calico",
 							"Octal",
 							"Ampflower 🌺",
 							"Ringlings",
@@ -1923,12 +2079,6 @@
 						"title": "Infrastructure extraordinaire",
 						"names": [
 							"TheEpicBlock"
-						]
-					},
-					{
-						"title": "Area liberator",
-						"names": [
-							"Tomate0613"
 						]
 					},
 					{
