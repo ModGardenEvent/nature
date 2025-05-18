@@ -203,15 +203,28 @@
 				"discipline": "Volunteer Team Members",
 				"titles": [
 					{
-						"title": "Showrunner",
+						"title": "Showtechnician",
 						"names": [
-							"hama"
+							"Jasmine (jaskarth)",
+							"TheEpicBlock"
 						]
 					},
 					{
-						"title": "Administrator",
+						"title": "Showrunner",
 						"names": [
-							"TheEpicBlock"
+							"hama",
+							"Sisby folk",
+							"TheEpicBlock",
+							"Jasmine (jaskarth)"
+						]
+					},
+					{
+						"title": "Ground Team",
+						"names": [
+							"afamiliarquiet",
+							"Sammy",
+							"Tropheus Jay",
+							"Patbox"
 						]
 					}
 				]
@@ -284,37 +297,37 @@
 						]
 					},
 					{
-						"title": "Enchiridion - The Enchantment/Enchanting System and Minimalism",
+						"title": "Enchiridion - Enchanting & Minimalism",
 						"names": [
 							"Calico"
 						]
 					},
 					{
-						"title": "Mapping Worlds: the creation and design of Surveyor Map Framework",
+						"title": "Mapping Worlds",
 						"names": [
 							"Sisby folk"
 						]
 					},
 					{
-						"title": "Cross-version and Cross-loader Mod Development",
+						"title": "Cross-version/loader Mod Development",
 						"names": [
 							"Zbx1425"
 						]
 					},
 					{
-						"title": "The Server Side Modding in 2025 (or how things constantly change)",
+						"title": "Server Side Modding in 2025",
 						"names": [
 							"Patbox"
 						]
 					},
 					{
-						"title": "Modding From the Ground Up: An Introduction to Cichlid",
+						"title": "Modding From the Ground Up (Cichild)",
 						"names": [
 							"Tropheus Jay"
 						]
 					},
 					{
-						"title": "Think Outside the Block: Improving Content Mods with Game Design Fundamentals",
+						"title": "Think Outside the Block (Game Design)",
 						"names": [
 							"LemmaEOF",
 							"hama"
@@ -340,7 +353,7 @@
 						]
 					},
 					{
-						"title": "Just Enough Opinions Live Recording",
+						"title": "Just Enough Opinions Live",
 						"names": [
 							"G_cat",
 							"frog",
@@ -356,7 +369,7 @@
 						]
 					},
 					{
-						"title": "Sew the Spire: Adding a Mod Loader to a Game that Has a Mod Loader",
+						"title": "Sew the Spire",
 						"names": [
 							"sschr15"
 						]
