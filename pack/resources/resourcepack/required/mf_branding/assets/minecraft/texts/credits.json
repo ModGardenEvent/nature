@@ -15,9 +15,8 @@
 						"title": "Soundtrack Artist",
 						"names": [
 							"Calico (MerchantCalico)",
-							"Deltarisk",
 							"erora",
-							"Nulb",
+							"Nulb / Deltarisk",
 							"Superkat32",
 							"WorldWidePixel"
 						]
@@ -29,9 +28,18 @@
 						]
 					},
 					{
+						"title": "Website Artist",
+						"names": [
+							"Szedann"
+						]
+					},
+					{
 						"title": "Branding Artist",
 						"names": [
-							"acikek"
+							"acikek",
+							"hama",
+							"Nulb",
+							"wishi (dreamiwishi)"
 						]
 					}
 				]
@@ -48,11 +56,23 @@
 					{
 						"title": "World Builder",
 						"names": [
+							"Aethyus",
+							"Ampflower 🌺",
 							"apfelrunder",
+							"Calico (MerchantCalico)",
+							"Deadlydiamond98",
 							"Echo (CallMeEcho)",
-							"Superkat32",
+							"jaevy",
+							"keyberries",
+							"Kichura",
+							"Luna (Awakened Redstone)",
+							"LX86",
+							"ModogTheDev",
+							"ordana",
 							"Phanastrae",
-							"Pug (MerchantPug)"
+							"Powercyphe",
+							"Superkat32",
+							"Zbx1425"
 						]
 					}
 				]
@@ -70,6 +90,120 @@
 						"title": "Platform Developer",
 						"names": [
 							"TheEpicBlock"
+						]
+					},
+					{
+						"title": "Optimization",
+						"names": [
+							"Jasmine (jaskarth)",
+							"Jozufozu"
+						]
+					},
+					{
+						"title": "Utils Developer",
+						"names": [
+							"Calico (MerchantCalico)",
+							"Dooji",
+							"Emi",
+							"hammy275",
+							"lily",
+							"Luna (Awakened Redstone)",
+							"Sammy",
+							"SkyNotTheLimit",
+							"Tomate0613",
+							"UnlikePaladin",
+							"Kichura"
+						]
+					},
+					{
+						"title": "WorldComment Developer / Host",
+						"names": [
+							"Zbx1425"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "Volunteer Opportunists",
+				"titles": [
+					{
+						"title": "Event Streaming and Recording",
+						"names": [
+							"sschr15",
+							"quat",
+							"lily",
+							"Sammy"
+						]
+					},
+					{
+						"title": "Debugging",
+						"names": [
+							"Ampflower 🌺",
+							"Jasmine (jaskarth)",
+							"SkyNotTheLimit",
+							"lily",
+							"Luna (Awakened Redstone)"
+						]
+					},
+					{
+						"title": "Playtesting",
+						"names": [
+							"Phanastrae",
+							"jaevy",
+							"TheFluffycart55",
+							"Ampflower 🌺",
+							"Deadlydiamond98",
+							"SlimeistDev",
+							"SkyNotTheLimit",
+							"vectorwing",
+							"sschr15",
+							"ShiroJR",
+							"Siuol",
+							"Nomble",
+							"ThePotatoArchivist",
+							"Dr. Zeal",
+							"sam"
+						]
+					}
+				]
+			},
+			{
+				"discipline": "New Team Members",
+				"titles": [
+					{
+						"title": "Long time listener, first time caller",
+						"names": [
+							"apfelrunder"
+						]
+					},
+					{
+						"title": "Tinkering Thinkers",
+						"names": [
+							"Ampflower 🌺"
+						]
+					},
+					{
+						"title": "EVA Debugging",
+						"names": [
+							"Luna (Awakened Redstone)"
+						]
+					},
+					{
+						"title": "Painter, Painter, Painter",
+						"names": [
+							"Phanastrae"
+						]
+					},
+					{
+						"title": "Area Ranger",
+						"names": [
+							"Tomate0613"
+						]
+					},
+					{
+						"title": "Stylish Composer",
+						"names": [
+							"WorldWidePixel"
 						]
 					}
 				]
@@ -205,7 +339,7 @@
 					{
 						"title": "AutoWhitelist",
 						"names": [
-							"Awakened Redstone"
+							"Luna (Awakened Redstone)"
 						]
 					},
 					{
@@ -225,7 +359,7 @@
 					{
 						"title": "Barricade",
 						"names": [
-							"Calico",
+							"Calico (MerchantCalico)",
 							"UltrusBot",
 							"Sylv",
 							"Kneelawk"
@@ -309,7 +443,7 @@
 					{
 						"title": "Bovines and Buttercups (Mooblooms)",
 						"names": [
-							"Calico",
+							"Calico (MerchantCalico)",
 							"Octal",
 							"UltrusBot",
 							"Kneelawk"
@@ -330,7 +464,7 @@
 					{
 						"title": "Brewin' And Chewin'",
 						"names": [
-							"Calico",
+							"Calico (MerchantCalico)",
 							"Probleyes"
 						]
 					},
@@ -507,7 +641,7 @@
 					{
 						"title": "Default Components",
 						"names": [
-							"Awakened Redstone"
+							"Luna (Awakened Redstone)"
 						]
 					},
 					{
@@ -542,7 +676,7 @@
 						"title": "Enchiridion",
 						"names": [
 							"Omniv",
-							"Calico",
+							"Calico (MerchantCalico)",
 							"Octal",
 							"UltrusBot",
 							"Kneelawk"
@@ -614,7 +748,7 @@
 					{
 						"title": "Farmer's Delight Refabricated",
 						"names": [
-							"Calico",
+							"Calico (MerchantCalico)",
 							"vectorwing"
 						]
 					},
@@ -824,7 +958,7 @@
 					{
 						"title": "KRender",
 						"names": [
-							"Calico",
+							"Calico (MerchantCalico)",
 							"Kneelawk"
 						]
 					},
@@ -916,7 +1050,7 @@
 					{
 						"title": "Mod Garden",
 						"names": [
-							"Calico",
+							"Calico (MerchantCalico)",
 							"Octal",
 							"UltrusBot",
 							"Sylv"
@@ -967,7 +1101,7 @@
 					{
 						"title": "My Nether's Delight Refabricated",
 						"names": [
-							"Calico"
+							"Calico (MerchantCalico)"
 						]
 					},
 					{
@@ -1283,7 +1417,7 @@
 						"title": "Rapscallions and Rockhoppers (Penguins)",
 						"names": [
 							"Omniv",
-							"Calico",
+							"Calico (MerchantCalico)",
 							"Octal",
 							"UltrusBot",
 							"Kneelawk"
@@ -1340,7 +1474,7 @@
 					{
 						"title": "Silicate",
 						"names": [
-							"Calico",
+							"Calico (MerchantCalico)",
 							"UltrusBot",
 							"Sylv",
 							"Kneelawk"
@@ -1577,7 +1711,7 @@
 					{
 						"title": "Wandering Wizardry",
 						"names": [
-							"Calico",
+							"Calico (MerchantCalico)",
 							"Octal",
 							"Ampflower 🌺",
 							"Ringlings",
