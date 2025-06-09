@@ -4,9 +4,8 @@
         "overrides": {
             "permission_level": 4,
             "permission_keys": {
-				"modfest.netadmin": "allow",
-                "modfest.organizer": "allow",
-                "worldedit.*": "allow",
+				"modgarden.netadmin": "allow",
+                "modgarden.organizer": "allow",
                 "scattered_shards.*": "allow",
 				"styledchat.set": "allow",
 				"styledchat.clear": "allow"
@@ -15,25 +14,15 @@
             "entity_selectors": true,
             "commands": {
 				".*": "allow"
-            },
-            "worldinajar:create_jar": true
+            }
         }
-    },
-    "modrinth": {
-      "level": 10,
-      "overrides": {
-        "name_decoration": {
-          "prefix": {"text": "[Modrinth] ", "color": "lime"},
-          "contexts": ["chat", "tab_list"]
-        }
-      }
     },
     "fixer": {
         "level": 10,
         "overrides": {
             "permission_level": 2,
             "permission_keys": {
-                "modfest.builder": "allow",
+                "modgarden.builder": "allow",
                 "worldedit.*": "allow",
                 "scattered_shards.command.award": "allow",
                 "scattered_shards.command.collect": "allow",
@@ -60,14 +49,14 @@
 		"level": 5,
         "overrides": {
             "permission_keys": {
-				"modfest.participant": "allow"
+				"modgarden.participant": "allow"
 			}
 		}
 	},
     "everyone": {
         "overrides": {
             "permission_keys": {
-                "modfest.everyone": "allow",
+                "modgarden.everyone": "allow",
                 "worldedit.*": "deny",
                 "scattered_shards.*": "deny",
                 "armor_stand_editor.*": "deny"

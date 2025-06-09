@@ -2,7 +2,7 @@
 # default: false
 log_invalid_screens = true
 # List of specifically allowed domains or wildcards. Overrules the blacklist.
-whitelist = ["modfest.b-cdn.net", "github.com/ModFest/blanketcon-25/"]
+whitelist = ["modgarden.b-cdn.net", "github.com/ModGardenEvent/nature/"]
 # List of specifically disallowed domains or wildcards. Overruled by the whitelist.
 blacklist = ["localhost", "*"]
 

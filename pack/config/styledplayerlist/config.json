@@ -20,7 +20,7 @@
       {
         "require": {
           "type": "permission",
-          "permission": "modfest.organizer"
+          "permission": "modgarden.organizer"
         },
         "format": "[<white><font 'modfest:emoji'></*>] %player:displayname%",
         "passthrough": false

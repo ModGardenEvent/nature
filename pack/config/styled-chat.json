@@ -82,7 +82,7 @@
     {
       "require": {
         "type": "permission",
-        "permission": "modfest.organizer"
+        "permission": "modgarden.organizer"
       },
       "message_formats": {
         "chat": "<c:#e74c3c>\\<</c>${player}<c:#e74c3c>\\></c> ${message}"
@@ -94,7 +94,7 @@
     {
       "require": {
         "type": "permission",
-        "permission": "modfest.builder"
+        "permission": "modgarden.builder"
       },
       "display_name": "${default}",
       "message_formats": {
@@ -107,7 +107,7 @@
     {
       "require": {
         "type": "permission",
-        "permission": "modfest.participant"
+        "permission": "modgarden.participant"
       },
       "display_name": "${default}",
       "message_formats": {
