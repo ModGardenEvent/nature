@@ -146,7 +146,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "modgarden:emojii/mod_garden.png",
+			"file": "modgarden:emoji/mod_garden.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
