@@ -12,7 +12,7 @@ hash = "551e643f16f0a0d69d0799b2abdc845fb67e113f5f64e429982e4d190e3c0f42"
 fabric = "0.16.14"
 minecraft = "1.21.5"
 unsup = "1.0.2"
-unsup-experimental = "1.1-pre8"
+unsup-experimental = "1.1.4"
 unsup-stable = "1.0.2"
 
 [options]
