@@ -85,7 +85,7 @@
         "permission": "modgarden.organizer"
       },
       "message_formats": {
-        "chat": "<c:#e74c3c>\\<</c>${player}<c:#e74c3c>\\></c> ${message}"
+        "chat": "<c:#a9ffa7>[Team]</c> ${player} ${message}"
       },
       "formatting": {},
       "emoticons": {},
@@ -98,7 +98,7 @@
       },
       "display_name": "${default}",
       "message_formats": {
-        "chat": "<c:#aaff97>\\<</c>${player}<c:#aaff97>\\></c> ${message}"
+        "chat": "<c:#b41c2b>[Builder]</c> ${player} ${message}"
       },
       "formatting": {},
       "emoticons": {},
@@ -111,7 +111,7 @@
       },
       "display_name": "${default}",
       "message_formats": {
-        "chat": "<c:#49c2e0>\\<</c>${player}<c:#49c2e0>\\></c> ${message}"
+        "chat": "<c:#49c2e0>[Participant]</c> ${player} ${message}"
       },
       "formatting": {},
       "emoticons": {},
