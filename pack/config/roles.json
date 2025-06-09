@@ -17,12 +17,21 @@
             }
         }
     },
-    "fixer": {
+	"volunteer": {
+		"level": 15,
+		"includes": ["participant"],
+		"overrides": {
+			"permission_keys": {
+				"modgarden.volunteer": "allow"
+			}
+		}
+	},
+    "participant": {
         "level": 10,
         "overrides": {
             "permission_level": 2,
             "permission_keys": {
-                "modgarden.builder": "allow",
+                "modgarden.participant": "allow",
                 "worldedit.*": "allow",
                 "scattered_shards.command.award": "allow",
                 "scattered_shards.command.collect": "allow",
@@ -45,15 +54,6 @@
             }
         }
     },
-	"participant": {
-		"level": 5,
-		"includes": ["fixer"],
-        "overrides": {
-            "permission_keys": {
-				"modgarden.participant": "allow"
-			}
-		}
-	},
     "everyone": {
         "overrides": {
             "permission_keys": {

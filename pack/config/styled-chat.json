@@ -94,11 +94,11 @@
     {
       "require": {
         "type": "permission",
-        "permission": "modgarden.builder"
+        "permission": "modgarden.volunteer"
       },
       "display_name": "${default}",
       "message_formats": {
-        "chat": "<c:#b41c2b>[Builder]</c> ${player} ${message}"
+        "chat": "<c:#b41c2b>[Volunteer]</c> ${player} ${message}"
       },
       "formatting": {},
       "emoticons": {},
