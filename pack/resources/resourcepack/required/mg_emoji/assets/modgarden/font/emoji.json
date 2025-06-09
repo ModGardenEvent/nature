@@ -47,8 +47,8 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "modgarden:emoji/blanketcon.png",
-			"height": 9,
+			"file": "modgarden:art/graphics/64x/mod-garden/nature/icon.png",
+			"height": 8,
 			"ascent": 8,
 			"chars": [
 				""
@@ -146,8 +146,8 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "modgarden:emoji/modfest-generic.png",
-			"height": 9,
+			"file": "modgarden:art/graphics/64x/mod-garden/generic/icon.png",
+			"height": 8,
 			"ascent": 8,
 			"chars": [
 				""
