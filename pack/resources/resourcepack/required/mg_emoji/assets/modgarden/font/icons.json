@@ -11,7 +11,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "modgarden:art/graphics/64x/mod-garden/nature/icon.png",
+			"file": "modgarden:art/graphics/64x/mod-garden/generic/icon.png",
 			"ascent": 20,
 			"height": 64,
 			"chars": [
