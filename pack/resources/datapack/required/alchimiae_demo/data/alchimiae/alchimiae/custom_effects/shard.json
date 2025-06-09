@@ -1,7 +1,0 @@
-{
-  "category": "NEUTRAL",
-  "tick_frequency": 100,
-  "tick_commands": [
-    "shard award @s alchimiae:modfest_dragonfruit"
-  ]
-}

@@ -1,8 +1,8 @@
 {
-    // The name used for pulling from ModFest's platform api
-    "event": "bc25",
-    // The subdirectory in https://github.com/ModFest/art used for pulling the icon
-    "art_id": "bc25",
+    // The name used for pulling from Mod Garden's platform api
+    "event": "nature",
+    // The subdirectory in https://github.com/ModGardenEvent/art used for pulling the icon
+    "art_id": "mod-garden/nature",
 
     // Central definition of colours
     // This is a freeform key-value field. Values prefixed with an underscore are depended upon by scripts

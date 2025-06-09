@@ -2,3091 +2,332 @@ hash-format = "sha256"
 
 [[files]]
 file = "allium/hangman/main.lua"
+hash = "4aa3270093a59c55b6fb14e2863e37d24f6a8bf9c4dfb610ce030a8d46cfede1"
 
 [[files]]
 file = "allium/hangman/manifest.json"
+hash = "a8dcc68efcf803da60f88633b75efd69d9234718a36f76032742a5c5a33f6e3a"
 
 [[files]]
 file = "allium/hangman/words.lua"
-
-[[files]]
-file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
-metafile = true
+hash = "b73fa685eb1dd272a79b08aa7e62f85a2e642410da371d233f24cb40675c0a62"
 
 [[files]]
 file = "config/ChineseIME/config.json"
-
-[[files]]
-file = "config/accessories_temp_mixin_disable.txt"
-
-[[files]]
-file = "config/affinity.json5"
+hash = "fe26f7a6facd400e678560585c096ec45e70cce5d25037896fb44aa5cbcdb53f"
 
 [[files]]
 file = "config/ballotbox.toml"
-
-[[files]]
-file = "config/boatism.json5"
+hash = "6d5473851ec2ee7fc9f58edfff7064efc047c397c506f79bbff18abd522ce26b"
 
 [[files]]
 file = "config/bobby-block-entity-allowlist.conf"
+hash = "b3e942b7c4a29aefef20734b0991bfeeec395b18c8612f72bd86ff472d49bd02"
 
 [[files]]
 file = "config/bobby.conf"
-
-[[files]]
-file = "config/brewery_resources.json"
+hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
 
 [[files]]
 file = "config/canary.json"
-
-[[files]]
-file = "config/chitinous_ties.json5"
-
-[[files]]
-file = "config/chunksfadein.properties"
-
-[[files]]
-file = "config/combat_amenities.json5"
-
-[[files]]
-file = "config/crunchy_crunchy_advancements.toml"
+hash = "50b004f6d3578bbe8db31272b355d42d45ec6a714603a05e01aaf430a621b1ba"
 
 [[files]]
 file = "config/emi.css"
-
-[[files]]
-file = "config/enchdesc.json"
+hash = "206ec811351dc351a4a795f5adeb041e0901c171c2909d5d8504bd01ffacc398"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-
-[[files]]
-file = "config/fallflyingrestrictions.json5"
-
-[[files]]
-file = "config/familiar_friends.json"
+hash = "8292807996110f9a2ec6d4cdcda1868f1f6ec51ae85a2eb9733e62c2614cfb94"
 
 [[files]]
 file = "config/fireblanket/fireblanket.txt"
-
-[[files]]
-file = "config/getDown.json5"
+hash = "1a092b55ec3cc6bd33fae3bd2dd52363b70675e24a67386a81287a2b96ebdccb"
 
 [[files]]
 file = "config/glowcase.toml"
-
-[[files]]
-file = "config/hoofprint.toml"
-
-[[files]]
-file = "config/immersive_mc-server.json"
-
-[[files]]
-file = "config/inventory_tabs.toml"
+hash = "04c94f1881aa5dcf55e4eb9cc667f85d744aa407f3c1cc9dee582d4b62ad0f1c"
 
 [[files]]
 file = "config/lmft.json"
-
-[[files]]
-file = "config/magiclib.json"
+hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
 file = "config/meret.toml"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
+hash = "4c6ff82f48097eb0d356278abf2ae112fdef99f92dd0bfd6772ffcbd65a478c4"
 
 [[files]]
 file = "config/modfest_sync/behaviour.properties"
+hash = "338a2242baaae49f93257f5cfa1153bfb1c5e683f22ac3294cfbb10c90e8992f"
 
 [[files]]
 file = "config/modmenu.json"
-
-[[files]]
-file = "config/pfm.json"
-
-[[files]]
-file = "config/polymer/common.json"
-
-[[files]]
-file = "config/portable_crafting.toml"
+hash = "06be0e1698e6e1e18b26c323f3714f0758aa8059bf6d152de4c791f54981f756"
 
 [[files]]
 file = "config/quickerconnectbutton.json5"
+hash = "3b6009ba6c726cc32c0fe005b88d28fccb90f561c60112e2371949ca3a3fa8d2"
 
 [[files]]
 file = "config/rocks.json"
+hash = "340ae66474b261dcc5169e80c939eaf3790caad13615fcd5b05c2d3b01e6d94e"
 
 [[files]]
 file = "config/roles.json"
-
-[[files]]
-file = "config/simplefog.json"
+hash = "05865a800e724d0ffb4e50e9f24c8f8d9cf450f358e1e69612288a0075ad95ce"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-
-[[files]]
-file = "config/sky-aesthetics.json"
-
-[[files]]
-file = "config/snapper.json"
+hash = "5dc5ec66dea5d9b8571c99fa7cbd4db3f9fa4166725e166921b46582cb278268"
 
 [[files]]
 file = "config/sodium-options.json"
+hash = "535f2f0a496677258abe9d07df591df729a88bcd5f5db5bb54b36063102e10a0"
 
 [[files]]
 file = "config/sounds/chat.json"
+hash = "f51c9c3f95f7d6facca61d591b7e399b40a6e3ff620e3856b3e8b7fc7e8f5d63"
 
 [[files]]
 file = "config/stfu.json5"
+hash = "968a1f81d9816e6632a966a994a1d200a9c4fade68e95c451d14a5e53d1e70cc"
 
 [[files]]
 file = "config/styled-chat.json"
+hash = "379ccc65c30977423e581df9fb327e93a6427e2a39ae2c313aad5f8c8177d55f"
 
 [[files]]
 file = "config/styled-nicknames.json"
+hash = "9fa03ad9daf2ba21dc03eb8b1ebd822a87472aca463574840e88d9ae6195564a"
 
 [[files]]
 file = "config/styled_chat_emoji.json"
+hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
+hash = "30dac5a3065e2c759e89d7864945e5180f62b037996edc4e6b07955147f7793a"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-
-[[files]]
-file = "config/subtle_effects/general.toml"
-
-[[files]]
-file = "config/surveyor.toml"
-
-[[files]]
-file = "config/teabridge.json"
-
-[[files]]
-file = "config/trailiertales/mixins.json5"
-
-[[files]]
-file = "config/trickster-config.json5"
-
-[[files]]
-file = "config/vanillin.json"
+hash = "d03849a65089adaf0c73177379fd1d81976b3367a401a86c6c7544c3a4a36692"
 
 [[files]]
 file = "config/waila/blacklist.json5"
+hash = "d1bd03fae229d737bce2ef397655a8f19e2eb2a64adbce5bd20b428351afcf86"
 
 [[files]]
 file = "config/waila/waila.json5"
+hash = "ddf330108acb535fd4d8598b8fd09b96d26cdc806dc5c0d4feac63dcb0ed0938"
 
 [[files]]
 file = "config/waila/waila_plugins.json5"
-
-[[files]]
-file = "config/wilderwild/block.json5"
-
-[[files]]
-file = "config/wilderwild/mixins.json5"
-
-[[files]]
-file = "config/wwizardry.json"
+hash = "11344c9b823ad2604d91863e829ab1e4c3833ee2aa9e873dda5b99a915d8a44f"
 
 [[files]]
 file = "config/yosbr/options.txt"
+hash = "76327052df02ada584054f06471b28082f64a89c8faa9f22b77fe4252893b9ff"
 
 [[files]]
 file = "jsonpatcher/global_patches/assets/gen_assets.jsonpatch"
+hash = "702426c25966c1fa819d664a9863f302e624f2594dd740edd95981e657a4c3aa"
 
 [[files]]
 file = "jsonpatcher/scripts/make_items.jsonpatch"
-
-[[files]]
-file = "mods/Apoli-2.12.0-alpha.17+mc.1.21.1-blanketcon6.jar"
-
-[[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-metafile = true
+hash = "7cc1733b91455bc48965f42c77b646f75a1c9b2bb61a1c2dca334ba918b2a219"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/area-tools.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/area_lib.pw.toml"
+hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
 metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
+hash = "91d3354a76b36909352f4d7280a71f272b73c8c25c6ea60de5fd7460c3b61a45"
 metafile = true
 
 [[files]]
 file = "mods/axiom-server.pw.toml"
+hash = "54792e61924364cf77b5113b593c2dd7dd26d38c1fba794deabcb27ddcf878ba"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
+hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
 metafile = true
 
 [[files]]
 file = "mods/badstdout.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ballotbox.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
+hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
 metafile = true
 
 [[files]]
 file = "mods/better-narrator-error.pw.toml"
+hash = "08c588cc1642d273c6bf00d6286fcdd627e51e723d9a8919a369c38a7376e126"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
+hash = "5dccb53650c19b933db206e676ef00f1d1d0129f6d072a53e5111421ea461cf6"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/crunchy-crunchy-advancements.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/demobox.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/drogstyle.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dynamic_asset_generator.pw.toml"
+hash = "b37d9f4fb121ed3f9e766cebf90007f9ed73cd082571772364deb6a05f8d2123"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
+hash = "f34159a6e4806f4127a6db44b859c1801ffcd37f482dd87281dc29ebbbf95806"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
+hash = "744b6abc57267d868e2b0c8430099d611ded0d859ac865fe698b9de6cc204a87"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
-
-[[files]]
-file = "mods/fireblanket-0.7.12+1.21.1.jar"
-
-[[files]]
-file = "mods/glide-away.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/glowcase.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/have-another-pretty-particle-yayyyyyyyy.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hoofprint.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/immortal-coral.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/impillagers-1.3.0-BuildCon-Hotfix-1.jar"
 
 [[files]]
 file = "mods/iris.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/item-model-component-backport.pw.toml"
+hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lavender.pw.toml"
+hash = "b84325343c5cd6c714a820b07b350414aa017e39fc3403b4962d87ef1911dfed"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/map-utils.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/meret.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/modfest-role-sync.pw.toml"
+hash = "8906ef8f4ddbd9808b1a783d673a262ecb5b5e6c0c030ed67c4e103be348d493"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/moreaxolotlvariantsapi-common.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/necessities-1.1-1.21.1.jar"
-
-[[files]]
-file = "mods/now-playing-fabric-1.5.13+stereomerge+1.21.jar"
-
-[[files]]
-file = "mods/oneoffs-bobbyallowlist-1.3.1.jar"
-
-[[files]]
-file = "mods/oneoffs-hideservermessages-1.3.1.jar"
-
-[[files]]
-file = "mods/oneoffs-lib-1.3.1.jar"
-
-[[files]]
-file = "mods/oneoffs-quickfov-1.3.1.jar"
-
-[[files]]
-file = "mods/oneoffs-spectatorheads-1.3.1.jar"
-
-[[files]]
-file = "mods/origins.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
+hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/player-pronouns.pw.toml"
+hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
 metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/polymer-bundled-0.9.19-debug+1.21.1.jar"
-
-[[files]]
-file = "mods/polymer.pw.toml.disabled"
-
-[[files]]
-file = "mods/potentials.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/proper-pet-tp-1.2.1-bc25.jar"
-
-[[files]]
-file = "mods/quicker-connect-button.pw.toml"
+hash = "22ab2d1da8f25ac0ef80fd591eccdf90720d9e442e94c3df4f2f03cc10afb6cc"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
-
-[[files]]
-file = "mods/scattered-shards.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/schedule-placeholder-1.0.0.jar"
 
 [[files]]
 file = "mods/searchables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/shrimpsicle.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sidekick.pw.toml"
+hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
 metafile = true
 
 [[files]]
 file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
+hash = "8ff84533e8fe06943d7d72e25e9b4393837e574a5c7c9e358206294b2cb0939c"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/softer-pastels.pw.toml"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
+hash = "4e4f1161a4029f3863634ca739651b0b289db8dfce58eba0081d451ebeab427a"
 metafile = true
 
 [[files]]
 file = "mods/spawnanywhere.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sseds.pw.toml"
+hash = "54946a1d416c9d13dccb57b2f475540f3da82a8c73a9dfde8fdad733c8a81c43"
 metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
+hash = "a44489bd75fb88331ce12016cac492f4d4092588a850dec83bdcad10cc42ac50"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
+hash = "50ccbb13c84d3d88b4a23f5f19028b62e6e0edeabca0b3b23f2c916e896695c3"
 metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/switchy-proxy.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/switchy.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/teabridge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/timelock.pw.toml"
+hash = "a51892495fece6745e0b90ef5c659f1000efeda9941738fb33e1668ddcd8e329"
 metafile = true
 
 [[files]]
 file = "mods/tmyk.pw.toml"
+hash = "6ebe0902f9f5aa2692a00fb036ae3f5dd0fc7423b6f60f8a29a0e967eccb1713"
 metafile = true
-
-[[files]]
-file = "mods/veil-fabric-1.21.1-1.0.1-bc2.jar"
 
 [[files]]
 file = "mods/worldedit-server.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui.pw.toml"
+hash = "a052e9e4152a7070185d4ff6205839099ce011998b3c60c313fd814ff6d18177"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
+hash = "24942c4b77b5a82e6bbce623ab6ae7f33a413d309b0571f6b1f508615a889c07"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/apple_liquor.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/apple_mead.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/beer.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/cherry_tea.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/chorus_brew.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/cider.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/dark_beer.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/glow_wine.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/green_tea.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/mead.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/rum.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/tea.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/vodka.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/wheat_beer.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/whiskey.json"
-
-[[files]]
-file = "polymer/override_assets/assets/brewery/models/item/brewery_drink/wine.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/borsch.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/chicken_soup.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/cocktail.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/cup.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/fish_soup.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/jar.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/mug.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/shot.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/tall_glass.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/tom_yum.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/models/item/wine_glass.json"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/borsch.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/chicken_soup.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/cocktail.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/cocktail_overlay.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/cup.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/cup_overlay.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/fish_soup.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/jar.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/jar_overlay.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/mug.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/mug_overlay.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/shot.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/shot_overlay.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/soup.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/soup_overlay.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/tall_glass.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/tall_glass_overlay.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/tom_yum.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/wine_glass.png"
-
-[[files]]
-file = "polymer/override_assets/assets/cabbage_substances/textures/item/wine_glass_overlay.png"
-
-[[files]]
-file = "polymer/override_assets/pack.mcmeta"
-
-[[files]]
-file = "polymer/override_assets/pack.png"
-
-[[files]]
-file = "resourcepacks/badradio.zip"
-
-[[files]]
-file = "resources/common/required/bdubsbike/assets/blanketcon25/automobile_models/automobile_models/frame/bdubsbike.json"
-
-[[files]]
-file = "resources/common/required/bdubsbike/assets/blanketcon25/models/entity/automobile/frame/bdubsbike/main.json"
-
-[[files]]
-file = "resources/common/required/bdubsbike/assets/blanketcon25/textures/entity/automobile/frame/bdubsbike.png"
-
-[[files]]
-file = "resources/common/required/bdubsbike/assets/blanketcon25/textures/snail.png"
-
-[[files]]
-file = "resources/common/required/bdubsbike/data/blanketcon25/automobility/automobile_frame/bdubsbike.json"
-
-[[files]]
-file = "resources/common/required/bdubsbike/data/blanketcon25/recipe/frame/bdubsbike.json"
-
-[[files]]
-file = "resources/common/required/bdubsbike/pack.mcmeta"
-
-[[files]]
-file = "resources/common/required/bdubsbike/pack.png"
-
-[[files]]
-file = "resources/common/required/bovines_cow_variants/assets/blanketcon25/textures/entity/cow/cold_cow.png"
-
-[[files]]
-file = "resources/common/required/bovines_cow_variants/assets/blanketcon25/textures/entity/cow/warm_cow.png"
-
-[[files]]
-file = "resources/common/required/bovines_cow_variants/data/blanketcon25/bovinesandbuttercups/cow_variant/cold_cow.json"
-
-[[files]]
-file = "resources/common/required/bovines_cow_variants/data/blanketcon25/bovinesandbuttercups/cow_variant/warm_cow.json"
-
-[[files]]
-file = "resources/common/required/bovines_cow_variants/pack.mcmeta"
-
-[[files]]
-file = "resources/common/required/bovines_cow_variants/pack.png"
-
-[[files]]
-file = "resources/common/required/charta.zip"
-
-[[files]]
-file = "resources/common/required/lifesizeparticipants/assets/lifesizeparticipants/textures/bdubs/afamiliarquiet.png"
-
-[[files]]
-file = "resources/common/required/lifesizeparticipants/assets/lifesizeparticipants/textures/bdubs/nulb.png"
-
-[[files]]
-file = "resources/common/required/lifesizeparticipants/data/lifesizeparticipants/lifesizebdubs/bdubs_variant/afamiliarquiet.json"
-
-[[files]]
-file = "resources/common/required/lifesizeparticipants/data/lifesizeparticipants/lifesizebdubs/bdubs_variant/nulb.json"
-
-[[files]]
-file = "resources/common/required/lifesizeparticipants/pack.mcmeta"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/aerodrome.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/amalgamate.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/asteraceae.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/battle_brick_boulder.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/brand_new_discoveries.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/cerasus.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/coalesce.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/dioxide.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/dormant.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/enchanting.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/erruption.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/everpresence.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/floraison.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/gather.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/hakonechloa.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/hot_treacle.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/hyperacusis.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/me_booty.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/mechanical_plateau.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/prologue.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/short_and_sweat.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/step_step_right_on_up.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/steps_of_the_swans.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/sub_aquatique.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/take_your_time.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/testing_waters.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/unstable_transmission.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/wawariding_the_waves.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds.json"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/aerodrome.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/amalgamate.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/asteraceae.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/battle_brick_boulder.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/brand_new_discoveries.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/cerasus.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/coalesce.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/dioxide.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/dormant.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/enchanting.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/erruption.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/everpresence.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/floraison.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/gather.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/hakonechloa.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/hot_treacle.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/hyperacusis.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/me_booty.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/mechanical_plateau.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/prologue.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/short_and_sweat.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/step_step_right_on_up.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/steps_of_the_swans.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/aerodrome.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/amalgamate.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/asteraceae.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/battle_brick_boulder.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/brand_new_discoveries.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/cerasus.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/coalesce.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/dioxide.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/dormant.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/enchanting.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/erruption.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/everpresence.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/floraison.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/gather.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/hakonechloa.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/hot_treacle.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/hyperacusis.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/me_booty.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/mechanical_plateau.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/prologue.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/short_and_sweat.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/step_step_right_on_up.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/steps_of_the_swans.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/sub_aquatique.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/take_your_time.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/testing_waters.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/the_ruins.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/unstable_transmission.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/wawariding_the_waves.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/sub_aquatique.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/take_your_time.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/testing_waters.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/the_ruins.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/unstable_transmission.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/wawariding_the_waves.ogg"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/aerodrome.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/amalgamate.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/asteraceae.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/battle_brick_boulder.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/brand_new_discoveries.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/cassette_template.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/cerasus.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/coalesce.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/dioxide.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/dormant.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/dormant_trailer.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/enchanting.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/erruption.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/everpresence.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/floraison.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/gather.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/hakonechloa.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/hot_treacle.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/hyperacusis.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/me_booty.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/mechanical_plateau.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/prologue.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/short_and_sweat.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/step_step_right_on_up.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/steps_of_the_swans.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/sub_aquatique.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/take_your_time.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/testing_waters.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/unstable_transmission.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/wawariding_the_waves.png"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/now-playing/sprites.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/aerodrome.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/amalgamate.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/asteraceae.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/battle_brick_boulder.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/brand_new_discoveries.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/cerasus.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/coalesce.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/dioxide.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/dormant.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/enchanting.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/erruption.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/everpresence.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/floraison.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/gather.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/hakonechloa.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/hot_treacle.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/hyperacusis.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/me_booty.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/mechanical_plateau.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/prologue.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/short_and_sweat.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/step_step_right_on_up.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/steps_of_the_swans.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/aerodrome.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/amalgamate.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/asteraceae.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/battle_brick_boulder.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/brand_new_discoveries.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/cerasus.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/coalesce.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/dioxide.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/dormant.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/enchanting.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/erruption.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/everpresence.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/floraison.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/gather.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/hakonechloa.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/hot_treacle.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/hyperacusis.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/me_booty.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/mechanical_plateau.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/prologue.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/short_and_sweat.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/step_step_right_on_up.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/steps_of_the_swans.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/sub_aquatique.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/take_your_time.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/testing_waters.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/the_ruins.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/unstable_transmission.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/wawariding_the_waves.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/sub_aquatique.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/take_your_time.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/testing_waters.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/the_ruins.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/unstable_transmission.json"
-
-[[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/wawariding_the_waves.json"
-
-[[files]]
-file = "resources/common/required/mf_music/pack.mcmeta"
-
-[[files]]
-file = "resources/common/required/mf_music/pack.png"
-
-[[files]]
-file = "resources/common/required/mf_origins/assets/origins/lang/en_us.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origin_layers/origin.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/arachnid.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/avian.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/blazeborn.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/elytrian.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/enderian.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/feline.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/human.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/merling.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/phantom.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/data/origins/origins/shulk.json"
-
-[[files]]
-file = "resources/common/required/mf_origins/pack.mcmeta"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/lang/en_us.json"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avocado_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avocado_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avocado_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avocado_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/types.json"
-
-[[files]]
-file = "resources/common/required/mf_shards/pack.mcmeta"
-
-[[files]]
-file = "resources/common/required/spirit_vector_overrides/data/spirit_vector/tags/block/wall_jumpable.json"
-
-[[files]]
-file = "resources/common/required/spirit_vector_overrides/pack.mcmeta"
-
-[[files]]
-file = "resources/common/required/spirit_vector_overrides/pack.png"
-
-[[files]]
-file = "resources/datapack/required/a_lie_in_time/data/petworks/default_components/agender_collar.json"
-
-[[files]]
-file = "resources/datapack/required/a_lie_in_time/data/scattered_shards/default_components/shard_tablet.json"
-
-[[files]]
-file = "resources/datapack/required/a_lie_in_time/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/army_base.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/backpack_base.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/chicken_shoes.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/fov_glasses.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/gloves_base.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/hat_base.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/nature_suit.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/pineapple_head.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/snail_shoes.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/base_with_strips.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/black_with_white_strips.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/gray_with_white_strips.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/light_gray_with_black_strips.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/pink_with_white_strips.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/red_with_white_strips.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/white_with_black_strips.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/white_with_pink_strips.json"
-
-[[files]]
-file = "resources/datapack/required/accessories-data-driven-renderers/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/additional_scarf_slots/data/trinkets/entities/scarves_integrations.json"
-
-[[files]]
-file = "resources/datapack/required/additional_scarf_slots/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/additional_scarf_slots/pack.png"
-
-[[files]]
-file = "resources/datapack/required/alchimiae_demo/data/alchimiae/alchimiae/custom_effects/shard.json"
-
-[[files]]
-file = "resources/datapack/required/alchimiae_demo/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/atmospheric_misc/data/barricade/tags/entity_type/blocked_by_mob_barrier.json"
-
-[[files]]
-file = "resources/datapack/required/atmospheric_misc/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/barricade-example/data/barricade-example/barricade/advanced_barrier/cow.json"
-
-[[files]]
-file = "resources/datapack/required/barricade-example/data/barricade-example/barricade/advanced_barrier/horse.json"
-
-[[files]]
-file = "resources/datapack/required/barricade-example/data/barricade-example/barricade/advanced_barrier/riding_only.json"
-
-[[files]]
-file = "resources/datapack/required/barricade-example/data/barricade-example/silicate/condition_template/is_riding.json"
-
-[[files]]
-file = "resources/datapack/required/barricade-example/data/barricade-example/silicate/condition_template/true.json"
-
-[[files]]
-file = "resources/datapack/required/barricade-example/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/barricade-example/pack.png"
-
-[[files]]
-file = "resources/datapack/required/builderdash_portals/data/blanketcon25/game_portals/pictionary.json"
-
-[[files]]
-file = "resources/datapack/required/builderdash_portals/data/blanketcon25/game_portals/telephone.json"
-
-[[files]]
-file = "resources/datapack/required/builderdash_portals/data/blanketcon25/game_portals/versus.json"
-
-[[files]]
-file = "resources/datapack/required/builderdash_portals/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/bundled_item_weight_examples/data/bundled/tags/item/cannot_nest.json"
-
-[[files]]
-file = "resources/datapack/required/bundled_item_weight_examples/data/bundled/tags/item/max_weight.json"
-
-[[files]]
-file = "resources/datapack/required/bundled_item_weight_examples/data/bundled/tags/item/quarter_weight.json"
-
-[[files]]
-file = "resources/datapack/required/bundled_item_weight_examples/data/bundled/tags/item/sixteenth_weight.json"
-
-[[files]]
-file = "resources/datapack/required/bundled_item_weight_examples/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/data/glowcase/default_components/edible_notes_and_everything_else.json"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/baked_potato.json"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/enchanted_golden_apple.json"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/netherite_scrap.json"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/data/something_that_isnt_a_mod/default_components/not_a_real_item.json"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/data/trickster/default_components/knots.json"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/enchiridion_anti_smuggle/data/enchiridion/enchantment/prospector.json"
-
-[[files]]
-file = "resources/datapack/required/enchiridion_anti_smuggle/data/enchiridion/enchantment/splitting.json"
-
-[[files]]
-file = "resources/datapack/required/enchiridion_anti_smuggle/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/enchiridion_combat_trial_minigame/data/blanketcon25/loot_table/enchiridion/combat_chamber_kill.json"
-
-[[files]]
-file = "resources/datapack/required/enchiridion_combat_trial_minigame/data/blanketcon25/loot_table/enchiridion/combat_chamber_vault.json"
-
-[[files]]
-file = "resources/datapack/required/enchiridion_combat_trial_minigame/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/legendofsteve/data/zeldacraft/loot_table/blocks/loot_grass.json"
-
-[[files]]
-file = "resources/datapack/required/legendofsteve/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
-
-[[files]]
-file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/options.json"
-
-[[files]]
-file = "resources/datapack/required/mf_ballotbox/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/block/block_interaction_restricted.json"
-
-[[files]]
-file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/entity_type/entity_attack_restricted.json"
-
-[[files]]
-file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/entity_type/entity_interaction_restricted.json"
-
-[[files]]
-file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/item_interaction_restricted.json"
-
-[[files]]
-file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/mf_spell_dimension/data/bc25/dimension/spell_dimension.json"
-
-[[files]]
-file = "resources/datapack/required/mf_spell_dimension/data/bc25/dimension_type/spell_dimension.json"
-
-[[files]]
-file = "resources/datapack/required/mf_spell_dimension/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/oxide_biome_pack/data/minecraft/worldgen/biome/oxide_wasteland.json"
-
-[[files]]
-file = "resources/datapack/required/oxide_biome_pack/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/common.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/common_ammo.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/common_omni_ammo.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/common_weapons.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/food.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/rare.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/rare_omni_ammo.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/rare_weapons.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/uncommon.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/uncommon_ammo.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/uncommon_omni_ammo.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/uncommon_weapons.json"
-
-[[files]]
-file = "resources/datapack/required/pvpisland_loot/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/scriptor_demo/data/scriptor/scriptor/actions/give_shard.json"
-
-[[files]]
-file = "resources/datapack/required/scriptor_demo/data/scriptor/tags/block/do_not_phase.json"
-
-[[files]]
-file = "resources/datapack/required/scriptor_demo/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/shrimp_blocker/data/barricade/tags/entity_type/blocked_by_passive_barrier.json"
-
-[[files]]
-file = "resources/datapack/required/shrimp_blocker/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/swordfight/data/swordfight/loot_table/swordspawn.json"
-
-[[files]]
-file = "resources/datapack/required/swordfight/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/thwackinator_extra/data/thwackinator/tags/block/bouncy_blocks.json"
-
-[[files]]
-file = "resources/datapack/required/thwackinator_extra/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/vanillin_ban/data/vanillin/tags/item/no_instancing.json"
-
-[[files]]
-file = "resources/datapack/required/vanillin_ban/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/load.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/check.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/cleanup.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/cooldown_1.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/cooldown_2.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/cooldown_3.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/cooldown_4.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/cooldown_5.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/cooldown_end.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/game_fail.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/game_success.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/give_variants.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/remove_variants.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/round_game.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_1.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_10.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_11.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_12.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_13.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_14.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_15.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_16.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_17.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_18.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_19.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_2.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_20.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_21.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_22.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_23.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_24.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_3.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_4.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_5.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_6.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_7.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_8.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/setpos_9.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/start.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant1/success_round.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/check.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/cleanup.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/cooldown_1.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/cooldown_2.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/cooldown_3.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/cooldown_end.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/game_fail.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/game_success.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/give_variants.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/remove_variants.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/round_game.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_1.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_10.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_11.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_12.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_13.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_14.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_15.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_16.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_17.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_18.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_19.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_2.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_20.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_21.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_22.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_23.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_24.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_3.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_4.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_5.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_6.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_7.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_8.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/setpos_9.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/start.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant2/success_round.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/check.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/cleanup.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/cooldown_1.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/cooldown_2.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/cooldown_3.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/cooldown_end.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/game_fail.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/game_success.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/give_variants.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/remove_variants.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/round_game.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_1.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_10.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_11.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_12.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_13.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_14.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_15.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_16.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_17.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_18.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_19.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_2.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_20.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_21.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_22.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_23.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_24.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_25.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_26.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_27.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_28.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_29.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_3.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_30.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_31.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_32.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_33.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_34.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_35.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_36.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_4.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_5.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_6.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_7.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_8.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/setpos_9.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/start.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/data/variant_swap_minigame/function/variant3/success_round.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variant_swap_minigame/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/worldinajar_tweaks/data/worldinajar/recipe/bedrock_pickaxe.json"
-
-[[files]]
-file = "resources/datapack/required/worldinajar_tweaks/data/worldinajar/tags/block/naughty_blocks.json"
-
-[[files]]
-file = "resources/datapack/required/worldinajar_tweaks/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/worldinajar_tweaks/pack.png"
-
-[[files]]
-file = "resources/resourcepack/optional/Semi-realistic Planet Scaling.zip"
-
-[[files]]
-file = "resources/resourcepack/required/Shantell-Sans.zip"
-
-[[files]]
-file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_banana.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_black.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_blue.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_brown.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_coral.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_fortgreen.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_gray.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_green.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_lime.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_maroon.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_nonbinary.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_olive.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_orange.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_purple.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_red.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_saturated_yellow.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_tan.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_white.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_yellow.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amoungus_base.json"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_banana.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_black.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_blue.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_brown.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_coral.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_fortgreen.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_gray.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_green.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_lime.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_maroon.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_nonbinary.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_olive.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_orange.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_purple.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_red.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_saturated_yellow.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_tan.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_white.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_yellow.png"
-
-[[files]]
-file = "resources/resourcepack/required/accessories-custom-models/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/autowhitelist.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/cabbage_substances.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/fabulously-optimized.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/jeo-logo.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/mod-descriptions.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/mod_garden.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/modded_wiki.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/mrpack4server.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/note_block_studio.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/note_block_world.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/polymania.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-extra-icons/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-fruit-basket/assets/scattered_shards/models/item/shard_tablet.json"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-fruit-basket/assets/scattered_shards/textures/item/shard_tablet.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-fruit-basket/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-fruit-basket/pack.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-patches/assets/extravaganza/lang/en_us.json"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-patches/assets/worldcomment/textures/gui/comment-tool.png"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-patches/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-splashes/assets/joy/texts/splashes.txt"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-splashes/assets/minecraft/texts/splashes.txt"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-splashes/assets/trailiertales/texts/splashes.txt"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-splashes/assets/wilderwild/texts/splashes.txt"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-splashes/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/fence.json"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/fence/chinese_ime_marble_wall.png"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/fence/chinese_ime_marble_wall_bevel.png"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/fence/chinese_ime_marble_wall_bevel_2.png"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/fence/chineseime_fence.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/fence/chineseime_fence.obj"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/sign.json"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/sign/chineseime_sign.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/sign/chineseime_sign.obj"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/sign/dark_oak_planks.png"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/sign/spruce_log.png"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/sign/stripped_oak_log.png"
-
-[[files]]
-file = "resources/resourcepack/required/chinese-ime-models/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/mtr_custom_resources.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_bes_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_cac_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_chd_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_chd_next_specdep.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_foc_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_grp_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_jur_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_jur_next_specdep.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_boe_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_boe_next_specdep.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_cap_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_cap_next_specdep.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_dun_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_grp_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_res_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_res_next_specdep.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_voc_next.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/airhigh.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/brakefreq.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/brakevol.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/doorcls.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/dooropn.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/loop.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor0.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor1.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor2.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor3.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor4.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor5.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor6.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor7.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor8.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor9.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/point.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/powerfreq.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/powervol.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/rub.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/run.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/sound.cfg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/airhigh.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/brakefreq.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/brakevol.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/doorcls.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/dooropn.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/loop.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor0.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor1.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor2.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor3.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor4.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor5.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor6.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor7.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/point.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/powerfreq.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/powervol.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/rub.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/run.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/sound.cfg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cx_pis_cfg.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_base.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_base.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_mini.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_mini.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_wheel.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_wheel.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/dipan1.csv"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/gizmo.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/gizmo.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/main.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/metal.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/models.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/ann.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/logo.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/logo_highlight.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_common.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_config_parser.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_head_side.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_company_logo.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_dest_info.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_interrupt.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_next_name.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_route.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/seven_segment.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/particles.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/pis_config.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/pis_placeholder.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/s_train.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/s_train_connector.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/s_train_mini.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/s_train_mini.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/sound.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/tcjc_pis_cfg.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/player_driver.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab_driver.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab_driver.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/common_jp_stop_pos_sign.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_1.5.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_1.5.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_1.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_1.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_2.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_2.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1.5_1.5.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1.5_1.5.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1.5_2.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1.5_2.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1_1.5.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1_1.5.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1_2.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1_2.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/metal.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_0.5.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_0.5.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_1.5.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_1.5.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_1.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_1.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_2.5.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_2.5.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_2.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_2.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/normal_horizontal.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/normal_horizontal.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/normal_vertical.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/normal_vertical.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf1.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf10.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf11.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf12.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf13.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf14.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf15.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf2.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf3.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf4.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf5.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf6.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf7.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf8.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf9.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf_all.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf_all2.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/sign_horizontal.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/sign_vertical.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_pole.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_pole.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_pole.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_back.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_back.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_back.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_left.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_left.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_left.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_right.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_right.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_right.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/gcaps_deco_object/assets/mtrsteamloco/eyecandies/gcaps.json"
-
-[[files]]
-file = "resources/resourcepack/required/gcaps_deco_object/assets/mtrsteamloco/eyecandies/mozc_caps.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/gcaps_deco_object/assets/mtrsteamloco/eyecandies/mozc_caps.obj"
-
-[[files]]
-file = "resources/resourcepack/required/gcaps_deco_object/assets/mtrsteamloco/eyecandies/mozc_caps.png"
-
-[[files]]
-file = "resources/resourcepack/required/gcaps_deco_object/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/idrix-sez.zip"
-
-[[files]]
-file = "resources/resourcepack/required/jsonpatcher-demo/assets/jsonpatcher_demo/textures/item/demo_item.png"
-
-[[files]]
-file = "resources/resourcepack/required/jsonpatcher-demo/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/glowcase/lang/en_us.json"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/texts/credits.json"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_0.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_1.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_2.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_3.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_4.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_5.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/edition.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/minecraft.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/mojangstudios.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/misc/forcefield.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/graphics/background-lockup.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/graphics/lockup-transparent.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/icon/transparent-modfest.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_branding/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/font/emoji.json"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/font/icons.json"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ace_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/agender_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_good.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_great.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_none.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_question.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/aro_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/aroace_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/bi_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/blanketcon.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/blob_waaaaa.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/demi_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/femboy_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/furry_pride.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/genderfluid_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/genderflux_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/genderqueer_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/intersex_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lesbian_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lil_pineapple.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/modfest-generic.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/nb_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/neurodiversity_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ohno.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/pan_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/pineapple.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/plural_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/queer_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/queer_prog_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/trans_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/uh.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/vincian_heart.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/whyfest.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/winnger.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/yeefuckinghaw.png"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/pack.mcmeta"
-
-[[files]]
-file = "resources/resourcepack/required/mf_emoji/styled_chat_emoji.json"
-
-[[files]]
-file = "resources/resourcepack/required/mod-descriptions-v5.zip"
-
-[[files]]
-file = "resources/resourcepack/required/twemoji.zip"
-
-[[files]]
 file = "server-icon.png"
+hash = "180bad69b8dd7e5f1fa4f8df3fccc251dcfddccd4d86b4dbdfe2f9ef5e07ba1c"
 
 [[files]]
 file = "server.properties"
+hash = "2a505feeea3d83994fb854b6516fdb24baf7d0a421ed6e8073dd63ec6940929b"
 
 [[files]]
 file = "servers.dat"
-
-[[files]]
-file = "staticdata/scarves/fabric_squares/lilium_cloth.json"
-
-[[files]]
-file = "staticdata/scarves/slot_configs/axolotls.json"
-
-[[files]]
-file = "staticdata/scarves/slot_configs/chickensaur.json"
-
-[[files]]
-file = "staticdata/scarves/slot_configs/joy.json"
-
-[[files]]
-file = "staticdata/scarves/slot_configs/wilder_wild.json"
-
-[[files]]
-file = "staticdata/scarves/slot_configs/wwizardry.json"
+hash = "650746d8e4f0e53b7262532a6b58186df966f82937cf692431a72b588ef42056"
 
 [[files]]
 file = "unsup.toml"
+hash = "cf530bd096ecf9edf664b6fc7048b914d15b51a673f57c2f34ac04966d8e5833"

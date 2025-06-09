@@ -11,24 +11,24 @@ id = "axiom_accept"
 name = "Accept"
 description = "<b>You affirm you have read and agree to the Axiom EULA, and wish to install Axiom.</b> You can find the Axiom EULA at https://axiom.moulberry.com/eula"
 
-[flavor_groups.worldedit]
-name = "WorldEdit"
-side = "client"
-description = "WorldEdit is a long-time server-side building utility with tool-bound wands and extensive commands.<br>Where do you intend to use WorldEdit?"
-[[flavor_groups.worldedit.choices]]
-id = "worldedit_mp"
-name = "Multiplayer"
-description = "You wish to use WorldEdit in Multiplayer. WorldEditCUI will be installed, and WorldEdit will not be installed on your client."
-[[flavor_groups.worldedit.choices]]
-id = "worldedit_sp"
-name = "Singleplayer"
-description = "You wish to use WorldEdit in Singleplayer. <b>Due to limitations in WorldEditCUI in 1.21.1, this will not install WorldEditCUI.</b>"
+# [flavor_groups.worldedit]
+# name = "WorldEdit"
+# side = "client"
+# description = "WorldEdit is a long-time server-side building utility with tool-bound wands and extensive commands.<br>Where do you intend to use WorldEdit?"
+# [[flavor_groups.worldedit.choices]]
+# id = "worldedit_mp"
+# name = "Multiplayer"
+# description = "You wish to use WorldEdit in Multiplayer. WorldEditCUI will be installed, and WorldEdit will not be installed on your client."
+# [[flavor_groups.worldedit.choices]]
+# id = "worldedit_sp"
+# name = "Singleplayer"
+# description = "You wish to use WorldEdit in Singleplayer. <b>Due to limitations in WorldEditCUI in 1.21.1, this will not install WorldEditCUI.</b>"
 
 [metafile.axiom-client]
 flavors="axiom_accept"
 
-[metafile.worldedit-client]
-flavors="worldedit_sp"
-
-[metafile.worldeditcui]
-flavors="worldedit_mp"
+# [metafile.worldedit-client]
+# flavors="worldedit_sp"
+#
+# [metafile.worldeditcui]
+# flavors="worldedit_mp"

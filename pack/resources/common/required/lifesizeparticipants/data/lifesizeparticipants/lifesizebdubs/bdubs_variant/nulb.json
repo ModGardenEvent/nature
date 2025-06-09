@@ -1,8 +1,0 @@
-{
-  "name": "Nulb",
-  "texture": "lifesizeparticipants:textures/bdubs/nulb.png",
-  "item": {
-	  "count": 1,
-	  "id": "spirit_vector:cassette.im_down"
-  }
-}

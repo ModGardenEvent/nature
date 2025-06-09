@@ -18,8 +18,8 @@ def main():
 	repo_name = os.path.basename(repo_root.resolve())
 
 	for (url, ext) in [
-		[f"https://modfest.github.io/{repo_name}/pack.toml", "Build"],
-		[f"https://modfest.github.io/{repo_name}/test/pack.toml", "Test"],
+		[f"https://modgardenevent.github.io/{repo_name}/pack.toml", "Build"],
+		[f"https://modgardenevent.github.io/{repo_name}/test/pack.toml", "Test"],
 		[f"http://localhost:8080/pack.toml", "Debug"]
 	]:
 		print(f"Generating packs for {url}")
@@ -40,7 +40,7 @@ def main():
 
 			art_id = constants["art_id"]
 			with output_zip.open(f"{icon_key}.png", mode="w") as f:
-				f.write(requests.get(f'https://github.com/ModFest/art/blob/v2/icon/64w/{art_id}/transparent.png?raw=true').content)
+				f.write(requests.get(f'https://github.com/ModGardenEvent/art/blob/main/graphics/64x/{art_id}/icon.png?raw=true').content)
 
 			if packwiz_info.unsup_stable:
 				with output_zip.open("patches/com.unascribed.unsup.stable.json", mode="w") as patch:

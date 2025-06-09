@@ -1,13 +1,13 @@
 name = "SpawnAnywhere"
-filename = "spawnanywhere-1.1.1+1.21.jar"
+filename = "spawnanywhere-1.1.1+1.21.5-rc1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QsMjldiE/versions/AR4owrBq/spawnanywhere-1.1.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/QsMjldiE/versions/jCcrnU6n/spawnanywhere-1.1.1%2B1.21.5-rc1.jar"
 hash-format = "sha512"
-hash = "720550ebbd71116364b5ccd12755054c06291e3d11c58b7d467a7bf704290884245ba9a358007395e6a92a5aff9488ba2cba3411def959dac46bc742ac39e7fe"
+hash = "49839df0f7cf2a53aec2d8d9516b5a050d48b499738c09b2e38fcb02b605ded3711194a695570b9c5f72e3277d0814a0145a49ec7902d5cb678101eb1c6cf3de"
 
 [update]
 [update.modrinth]
 mod-id = "QsMjldiE"
-version = "AR4owrBq"
+version = "jCcrnU6n"

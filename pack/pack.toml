@@ -1,19 +1,21 @@
-name = "BlanketCon '25"
-author = "ModFest"
-version = "1.0.6"
+name = "Mod Garden: Nature"
+author = "Mod Garden"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+hash = "551e643f16f0a0d69d0799b2abdc845fb67e113f5f64e429982e4d190e3c0f42"
 
 [versions]
 fabric = "0.16.14"
-minecraft = "1.21.1"
+minecraft = "1.21.5"
 unsup = "1.0.2"
 unsup-experimental = "1.1-pre8"
 unsup-stable = "1.0.2"
 
 [options]
+acceptable-game-versions = ["1.21.4"]
 datapack-folder = "resources/datapack/required"
 no-internal-hashes = true

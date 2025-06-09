@@ -1,2 +1,0 @@
-the presence of this file disables a couple of datafix mixins in accessories that conflict with fireblanket.
-accessories will at some point update to remove these mixins via a save-breaking update with a big warning, but we can just disable them for our usecase. 

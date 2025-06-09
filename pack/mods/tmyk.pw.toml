@@ -1,13 +1,13 @@
 name = "TMYK"
-filename = "tmyk-1.0.jar"
+filename = "tmyk-1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gMhzqGMC/versions/5pfGxnvV/tmyk-1.0.jar"
+url = "https://cdn.modrinth.com/data/gMhzqGMC/versions/bedPw4dH/tmyk-1.1.jar"
 hash-format = "sha512"
-hash = "3dcadf8dcd2c05eb2df1fac479b256c84aa0b1a0db941934f87688404401266faa4b7ba20b8db0f3c7898726aeca9673a8a499de5e4185d20dae2841983ea8c6"
+hash = "33906dae71b58e094bbd0405d2318ef1db06ee1c963556a26de7972dc7da60bbe0e02ac3a3c1a813f3bef92beedb9c846d3ab32549b4a0ec080c603002a5e493"
 
 [update]
 [update.modrinth]
 mod-id = "gMhzqGMC"
-version = "5pfGxnvV"
+version = "bedPw4dH"
