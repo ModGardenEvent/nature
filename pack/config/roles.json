@@ -47,6 +47,7 @@
     },
 	"participant": {
 		"level": 5,
+		"includes": ["fixer"],
         "overrides": {
             "permission_keys": {
 				"modgarden.participant": "allow"
