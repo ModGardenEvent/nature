@@ -1,0 +1,328 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/ace_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/agender_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/aroace_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/aro_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/bi_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/blanketcon.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/blob_waaaaa.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/demi_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/femboy_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/furry_pride.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/genderfluid_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/genderflux_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/genderqueer_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/intersex_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/lesbian_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/lil_pineapple.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/modfest-generic.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/nb_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/neurodiversity_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/ohno.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/pan_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/pineapple.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/plural_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/queer_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/queer_prog_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/trans_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/uh.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/vincian_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/whyfest.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/winnger.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/yeefuckinghaw.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/ananas_great.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/ananas_good.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/ananas_question.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/ananas_none.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/bigender_heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		}
+	]
+}

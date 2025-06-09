@@ -62,7 +62,7 @@
     },
     "emoticons": {
       "$emojibase:builtin:joypixels": "<font:'twemoji:font'><white>${emoji}",
-      "$default:from_file:styled_chat_emoji.json": "<font:'modfest:emoji'><white>${emoji}",
+      "$default:from_file:styled_chat_emoji.json": "<font:'modgarden:emoji'><white>${emoji}",
       "real_shrug": "¯\\\\_(ツ)_/¯",
       "table_flip": "(╯°□°）╯︵ ┻━┻",
       "mcsword": "🗡",

@@ -22,7 +22,7 @@
           "type": "permission",
           "permission": "modgarden.organizer"
         },
-        "format": "[<white><font 'modfest:emoji'></*>] %player:displayname%",
+        "format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
         "passthrough": false
       }
     ]
