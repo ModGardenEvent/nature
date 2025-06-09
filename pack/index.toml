@@ -74,7 +74,7 @@ hash = "340ae66474b261dcc5169e80c939eaf3790caad13615fcd5b05c2d3b01e6d94e"
 
 [[files]]
 file = "config/roles.json"
-hash = "52465e6732ace1cf9e1afd86bbfd67c04acdbd8fe1477185bfa0727968390425"
+hash = "7cefee6358f6feb850fca4c7d9d3a590a84b7a8a6c70dcf08a59eea9894d7730"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
@@ -94,7 +94,7 @@ hash = "968a1f81d9816e6632a966a994a1d200a9c4fade68e95c451d14a5e53d1e70cc"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "79637452a13d17e3e5adb113f1b3597a558bf95a1551272e992e13d56933ad8c"
+hash = "6285a9280ddfe71948162b464f4b9e03164f75150ec8d4af53aa091227b05707"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -144,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "91d3354a76b36909352f4d7280a71f272b73c8c25c6ea60de5fd7460c3b61a45"
+metafile = true
+
+[[files]]
+file = "mods/axiom-client.pw.toml"
+hash = "3366066a3d870429d2fd8cc6755acbdee8904f9d88075f6d480f5afaa6aa6031"
 metafile = true
 
 [[files]]
