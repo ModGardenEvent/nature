@@ -197,11 +197,6 @@ hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
-file = "mods/fabrictailor.pw.toml"
-hash = "744b6abc57267d868e2b0c8430099d611ded0d859ac865fe698b9de6cc204a87"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
