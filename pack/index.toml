@@ -74,7 +74,7 @@ hash = "340ae66474b261dcc5169e80c939eaf3790caad13615fcd5b05c2d3b01e6d94e"
 
 [[files]]
 file = "config/roles.json"
-hash = "cf0cd0709bdfb8b8c29a1d2be6694ada5b78ec037399a637941f645876493fd3"
+hash = "52465e6732ace1cf9e1afd86bbfd67c04acdbd8fe1477185bfa0727968390425"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
@@ -110,7 +110,7 @@ hash = "7a85dccae05064e2630afd758085c3970763f997dd473f0ca10e457df1ef9e49"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "e474ba7f3d84be39b87c476397098909816f65ade098ab35cdc9a889dc986499"
+hash = "3e92ef400955d213a4bf24ef67195cb732f82000133c93748341eec2c7568210"
 
 [[files]]
 file = "config/waila/blacklist.json5"
@@ -457,7 +457,7 @@ hash = "4f4b3d279d88bb75bacfc1d3ecd396f537b7eaf7dd3f9a57a4ea8415f158cae6"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/font/icons.json"
-hash = "81cea844ceb27179008b2b0b3ffdf7f6b3332e318198bd7a11bc4393fe9dc235"
+hash = "1918c151698ac9ea1210bd48d7baa46241955681c6d22319186e3e473fb1e9b8"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/ace_heart.png"
@@ -497,7 +497,7 @@ hash = "5d56fc98bcb4e7c35aa9d1469e2e1947961fcbb95ef8ddba73de9f403c459042"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/bigender_heart.png"
-hash = "d03499c22de122b06c0ac8bf2fca29b4e25d6eaac3c94b825ef1b96b725f8526"
+hash = "aae6bf628d89e3f730756c46e9391af7ee9ee8966b0c2175bb082d9a3325fd99"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/blob_waaaaa.png"
