@@ -85,7 +85,7 @@
         "permission": "modgarden.organizer"
       },
       "message_formats": {
-        "chat": "<c:#a9ffa7>[Team]</c> ${player} ${message}"
+        "chat": "<c:#a9ffa7>[Team]</c> ${player}: ${message}"
       },
       "formatting": {},
       "emoticons": {},
@@ -98,7 +98,7 @@
       },
       "display_name": "${default}",
       "message_formats": {
-        "chat": "<c:#b41c2b>[Volunteer]</c> ${player} ${message}"
+        "chat": "<c:#b41c2b>[Volunteer]</c> ${player}: ${message}"
       },
       "formatting": {},
       "emoticons": {},
@@ -111,7 +111,7 @@
       },
       "display_name": "${default}",
       "message_formats": {
-        "chat": "<c:#49c2e0>[Participant]</c> ${player} ${message}"
+        "chat": "<c:#49c2e0>[Participant]</c> ${player}: ${message}"
       },
       "formatting": {},
       "emoticons": {},
