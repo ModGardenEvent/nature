@@ -323,6 +323,15 @@
 			"chars": [
 				""
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/dead_garden.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
 		}
 	]
 }
