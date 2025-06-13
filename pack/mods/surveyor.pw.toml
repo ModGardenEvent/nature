@@ -1,0 +1,15 @@
+name = "surveyor"
+filename = "surveyor-1.0.0-alpha.10+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ModGardenEvent/surveyor/releases/download/v1.0.0-alpha.10%2B1.21.5/surveyor-1.0.0-alpha.10%2B1.21.5.jar"
+hash-format = "sha256"
+hash = "40ed41cee4de0753606780d8301f8647b20d7d5df8e8cdd436a8688e4ccdd9eb"
+
+[update]
+[update.github]
+branch = "1.21.5"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ModGardenEvent/surveyor"
+tag = "v1.0.0-alpha.10+1.21.5"

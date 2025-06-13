@@ -207,6 +207,10 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/hoofprint.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
@@ -289,6 +293,10 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "a51892495fece6745e0b90ef5c659f1000efeda9941738fb33e1668ddcd8e329"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
 metafile = true
 
 [[files]]

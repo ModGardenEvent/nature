@@ -1,0 +1,15 @@
+name = "hoofprint"
+filename = "hoofprint-0.8.0-alpha.9+1.21.jar"
+side = "client"
+
+[download]
+url = "https://github.com/ModGardenEvent/hoofprint/releases/download/v0.8.0-alpha.9%2B1.21.5/hoofprint-0.8.0-alpha.9%2B1.21.jar"
+hash-format = "sha256"
+hash = "e548c594c5ac20d986d235bcff09fb92b03bdda237279b208c41e43b424f3021"
+
+[update]
+[update.github]
+branch = "1.21.5"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ModGardenEvent/hoofprint"
+tag = "v0.8.0-alpha.9+1.21.5"
