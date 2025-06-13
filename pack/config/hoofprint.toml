@@ -1,0 +1,28 @@
+# default: true
+biomeWater = true
+# default: true
+topography = true
+# default: true
+transparentWater = true
+# default: true
+lighting = true
+# default: true
+itemOutlines = true
+# default: true
+showOffline = true
+# default: false
+renderBorder = true
+# default: true
+renderOutsideBorder = false
+# default: false
+logMapBaking = false
+# options: DAY, NIGHT, NETHER, END
+# default: DAY
+lightMap = "DAY"
+
+[dimensionMaxYValues]
+	"minecraft:the_nether" = 126
+
+[dimensionLightMaps]
+	"minecraft:the_nether" = "NETHER"
+	"minecraft:the_end" = "END"
