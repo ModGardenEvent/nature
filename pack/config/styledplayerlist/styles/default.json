@@ -11,7 +11,7 @@
   "list_footer": [
     "<font:'unsanded:default'><gr #a9ffa7 #6da26c #a9ffa7><st>                                       </st>",
     "",
-    "<#352123>TPS: %server:tps_colored% <#6da26c>|</> <#352123>Ping: <#ffffff>%player:ping_colored%</>",
+    "<#805453>TPS: %server:tps_colored% <#6da26c>|</> <#805453>Ping: <#ffffff>%player:ping_colored%</>",
     ""
   ],
   "hidden_in_commands": false
