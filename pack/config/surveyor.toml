@@ -34,7 +34,7 @@ forceUpdateLandmarks = true
 	# [Server] Whether to place every player in a single share group
 	# Disables /surveyor share and /surveyor unshare
 	# default: false
-	globalSharing = false
+	globalSharing = true
 	# How much terrain data to send to clients
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# options: NONE, SOLO, GROUP, SERVER
@@ -45,7 +45,7 @@ forceUpdateLandmarks = true
 	# When NONE, clients will never see structures
 	# options: NONE, SOLO, GROUP, SERVER
 	# default: NONE
-	structures = "SERVER"
+	structures = "NONE"
 	# Which landmarks to sync between client and server
 	# SERVER sync server-known landmarks, GROUP sends group-known landmarks, SOLO sends player-known landmarks, NONE sends no landmarks
 	# options: NONE, SOLO, GROUP, SERVER
