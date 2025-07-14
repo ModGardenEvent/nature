@@ -22,13 +22,13 @@ description = "<b>You affirm you have read and agree to the Axiom EULA, and wish
 # [[flavor_groups.worldedit.choices]]
 # id = "worldedit_sp"
 # name = "Singleplayer"
-# description = "You wish to use WorldEdit in Singleplayer. <b>Due to limitations in WorldEditCUI in 1.21.1, this will not install WorldEditCUI.</b>"
+# description = "You wish to use WorldEdit in Singleplayer. <b>Due to limitations in WorldEditCUI in 1.21.5, this will not install WorldEditCUI.</b>"
 
 [metafile.axiom-client]
 flavors="axiom_accept"
 
-# [metafile.worldedit-client]
-# flavors="worldedit_sp"
+[metafile.worldedit-client]
+flavors="worldedit_sp"
 #
-# [metafile.worldeditcui]
-# flavors="worldedit_mp"
+[metafile.worldeditcui]
+flavors="worldedit_mp"
