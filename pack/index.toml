@@ -246,6 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-client.toml"
+metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
