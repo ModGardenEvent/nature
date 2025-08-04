@@ -1,6 +1,6 @@
 {
     // The name used for pulling from Mod Garden's platform api
-    "event": "nature",
+    "event": "mod-garden-nature",
     // The subdirectory in https://github.com/ModGardenEvent/art used for pulling the icon
     "art_id": "mod-garden/nature",
 

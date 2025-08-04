@@ -173,6 +173,10 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/item-descriptions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 metafile = true
 
