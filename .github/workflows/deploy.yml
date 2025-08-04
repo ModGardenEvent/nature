@@ -62,7 +62,7 @@ jobs:
         uses: dawidd6/action-download-artifact@v8
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
-          repo: modfest/packwiz
+          repo: modgardenevent/packwiz
           workflow: go.yml
           name: "Linux 64-bit x86"
           path: ${{ env.PACKWIZ_DIR }}
