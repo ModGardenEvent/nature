@@ -165,6 +165,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/floralie.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hoofprint.pw.toml"
 metafile = true
 
@@ -202,6 +206,10 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scattered-shards.pw.toml"
 metafile = true
 
 [[files]]

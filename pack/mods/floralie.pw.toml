@@ -1,0 +1,15 @@
+name = "floralie"
+filename = "glowcase-2.3.0-backport.1+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ModGardenEvent/floralie/releases/download/2.3.0-backport.1/glowcase-2.3.0-backport.1%2B1.21.5.jar"
+hash-format = "sha256"
+hash = "912e6e1928355dc0e01af39fb38978ac4957a6d21901d5868f50e8a75309b4ed"
+
+[update]
+[update.github]
+branch = "1.21.5"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ModGardenEvent/floralie"
+tag = "2.3.0-backport.1"
