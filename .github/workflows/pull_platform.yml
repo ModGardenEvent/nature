@@ -1,4 +1,4 @@
-name: Pull mod data from ModFest platform
+name: Pull mod data from Mod Garden platform
 
 on:
   # Allows you to run this workflow manually from the Actions tab
@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 env:
-  PACKWIZ_COMMIT: 241f24b550f6fe838913a56bdd58bac2fc53254a
+  PACKWIZ_COMMIT: c3a6e56882f46459db8ce62a3e5461057cd69085
   PACKWIZ_DIR: /tmp/packwiz_artifact
   PACKWIZ: /tmp/packwiz_artifact/packwiz
 
@@ -37,7 +37,7 @@ jobs:
         uses: dawidd6/action-download-artifact@v8
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
-          repo: modfest/packwiz
+          repo: ModGardenEvent/packwiz
           workflow: go.yml
           name: "Linux 64-bit x86"
           path: ${{ env.PACKWIZ_DIR }}
