@@ -74,7 +74,7 @@ def main():
 				start_out.write("@echo off\njava -Xmx4096M -Xms4096M -javaagent:unsup.jar -jar fabric-server-launcher.jar nogui".encode("utf-8"))
 
 			with output_zip.open("start.sh", mode="w") as start_out:
-				start_out.write("#!/usr/bin/env\njava -Xmx4096M -Xms4096M -javaagent:unsup.jar -jar fabric-server-launcher.jar nogui".encode("utf-8"))
+				start_out.write("#!/usr/bin/env bash\njava -Xmx4096M -Xms4096M -javaagent:unsup.jar -jar fabric-server-launcher.jar nogui".encode("utf-8"))
 
 			with output_zip.open("unsup.jar", mode="w") as unsup_out:
 				with open(unsup_jar_file, "rb") as unsup_src:
