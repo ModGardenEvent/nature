@@ -1,1 +1,92 @@
-{}
+{
+	"always-a-bigger-fish": {
+		"files": {
+			"mods/always-a-bigger-fish.pw.toml": {
+				"download": {
+					"hash": "5bb322210c428e5473356b1eae09f7d67dadbe3f698fd5e8031b5dc73ea64f060eed33d8bc8b8e8d4a3d1b2e29b12e0b61da280ec8c981b05bdc17cf35f0dce3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/tKKzcK6F/versions/86O0NSNP/bigger_fish-fabric-1.0.1%2B1.21.5.jar"
+				},
+				"filename": "bigger_fish-fabric-1.0.1+1.21.5.jar",
+				"name": "There's Always a Bigger Fish",
+				"side": "both"
+			},
+			"mods/compost.pw.toml": {
+				"download": {
+					"hash": "6fb7e1bc796f4bf725a072630392d264454a623af6cce45f0488b69a445c5ae6c7de054669ea59e5fe49f52c0259f51a2b9985099421203ce723d328e303daa6",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/1hn9SStW/versions/n3Q0yENX/compost-fabric-1.21.5-2.1.1.jar"
+				},
+				"filename": "compost-fabric-1.21.5-2.1.1.jar",
+				"name": "Compost",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			}
+		},
+		"key": "c7f1af91e2dee4315421f9739d692da602a78996346d3d2a3635e4722bcfeaa4"
+	},
+	"spud_slingers": {
+		"files": {
+			"mods/spud_slingers.pw.toml": {
+				"download": {
+					"hash": "8e839675e508288be61e91afb9544b2a209fa5640b93595c182cab59a55f829745e64557a66c7c52f0007036465a001bf1112fb89d41bb03272ab5350aa099be",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/1XkIeaZ7/versions/37ZD9Z31/spud_slingers-1.0.1%2B1.21.5.jar"
+				},
+				"filename": "spud_slingers-1.0.1+1.21.5.jar",
+				"name": "Spud Slingers",
+				"side": "both"
+			}
+		},
+		"key": "abe43040d0890927fe14ee36195afb3e486c40613a11c19578e9ba2e4cc07d94"
+	},
+	"variant-lib": {
+		"files": {
+			"mods/variant-lib.pw.toml": {
+				"download": {
+					"hash": "f6b52b272132e4d23c1207580749b29179cf94d418e8d198ae5689c307a5ea0a16651176944f249201fd8f1d0e5303a5996725bb48e251f9bc70e187367edbd1",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/LQCrGzOR/versions/CvCDHvhY/variantlib-fabric-0.2.1%2B1.21.5.jar"
+				},
+				"filename": "variantlib-fabric-0.2.1+1.21.5.jar",
+				"name": "Variant Lib",
+				"side": "both"
+			}
+		},
+		"key": "4395c0cb779ccf5d38eda2161b706f56c08bc3653aa692b5b6f5022fbd8f7550"
+	},
+	"zeeraket": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/zeeraket.pw.toml": {
+				"download": {
+					"hash": "ce01ab3c1ffa91c627f3674a34f07aeaf92beaf0da304ea80581aa1c5f49016c3f82651b255f5e23b9a5935c591c40abd3cd75a874822e83d2e84da62c2772f8",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/UDP0Aohh/versions/BclikJLv/zeeraket-1.0.0.jar"
+				},
+				"filename": "zeeraket-1.0.0.jar",
+				"name": "Zeeraket",
+				"side": "both"
+			}
+		},
+		"key": "8f0fb509236371f2e7b1ef290bdfcc3865f6a0e892e1e62288be17cc6ecfcad9"
+	}
+}
