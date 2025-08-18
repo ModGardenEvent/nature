@@ -27,13 +27,13 @@ def main():
         print(f"Was this unintentional? Check {constants_file.relative_to(repo_root)} and make sure it defines \"event\"")
         submission_data = []
     else:
-        submissions_url = f"https://platform.modfest.net/event/{event_name}/submissions"
+        submissions_url = f"https://api.modgarden.net/v1/event/{event_name}/submissions"
         submission_data = json.loads(requests.get(submissions_url).text)
 
     credits = []
     for s in submission_data:
         credits.append({
-            "title": s["name"],
+            "title": s["project"]["slug"],
             "names": s["authors"]
         })
     print(json.dumps(credits))

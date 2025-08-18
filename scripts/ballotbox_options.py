@@ -4,24 +4,29 @@ import requests
 
 
 def ballotbox_options():
-	event_id = "bc25"
+	repo_root = common.get_repo_root()
+	constants_file = repo_root / "constants.jsonc"
+	constants = common.jsonc_at_home(common.read_file(constants_file))
+
+	event_id = constants["event"]
 	options = []
-	submissions_url = f"https://platform.modfest.net/event/{event_id}/submissions"
+	submissions_url = f"https://api.modgarden.net/v1/event/{event_id}/submissions"
 	print(submissions_url)
 	for submission in json.loads(requests.get(submissions_url).text):
 		option = {
 			"id": submission["id"],
-			"mod_id": submission["id"],
+			"mod_id": submission["project"]["slug"],
 			"name": submission["name"],
-			"description": submission["description"],
-			"platform": {
-				"type": submission["platform"]["type"]
-			}
+			# "description": submission["description"],
+			# "platform": {
+			# 	"type": submission["platform"]["type"]
+			# }
+			"project": {}
 		}
-		if "project_id" in submission["platform"]:
-			option["platform"]["project_id"] = submission["platform"]["project_id"]
-		if "homepage_url" in submission["platform"]:
-			option["platform"]["homepage_url"] = submission["platform"]["homepage_url"]
+		if "modrinth_id" in submission["project"]:
+			option["project"]["modrinth_id"] = submission["project"]["modrinth_id"]
+		# if "homepage_url" in submission["platform"]:
+			# option["platform"]["homepage_url"] = submission["platform"]["homepage_url"]
 		options.append(option)
 
 	print(f"Writing {len(options)} submissions to options.json")

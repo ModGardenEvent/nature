@@ -36,13 +36,13 @@ def main():
 		print(f"Was this unintentional? Check {constants_file.relative_to(repo_root)} and make sure it defines \"event\"")
 		submission_data = []
 	else:
-		submissions_url = f"https://platform.modfest.net/event/{event_name}/submissions"
+		submissions_url = f"https://api.modgarden.net/v1/event/{event_name}/submissions"
 		submission_data = json.loads(requests.get(submissions_url).text)
 
 	# Update the lock file
 	# Read the needed files and transform the submission data into a dict where the ids are keys
 	lock_data: SubmissionLockfileFormat = json.loads(common.read_file(submission_lock_file)) if submission_lock_file.exists() else {}
-	submissions_by_id = {s["id"]: s for s in submission_data}
+	submissions_by_id = {s["project"]["slug"]: s for s in submission_data}
 
 	# Remove stale data
 	lock_data = {k: v for k, v in lock_data.items() if (k in submissions_by_id)}
@@ -50,9 +50,12 @@ def main():
 	# Loop through all submissions
 	rate_limit = common.Ratelimiter(1)
 	for mod_id in submissions_by_id:
-		platform_info = submissions_by_id[mod_id]
+		submission_info = submissions_by_id[mod_id]
+		platform_info = dict()
+		platform_info["version_id"] = submission_info["modrinth_version_id"]
+		platform_info["project_id"] = submission_info["project"]["modrinth_id"]
 		lock_info = lock_data.get(mod_id)  # Might be None
-		submission_hash = hashlib.sha256(json.dumps(platform_info["platform"], sort_keys=True).encode("utf-8")).digest().hex()
+		submission_hash = hashlib.sha256(json.dumps(platform_info, sort_keys=True).encode("utf-8")).digest().hex()
 		# If the platform info changes we need to update the lock data
 		if lock_info is None or lock_info["key"] != submission_hash:
 			print(f"Updating lock data for {mod_id}")
@@ -75,17 +78,22 @@ def main():
 
 				# Install the mod into the temporary packwiz pack
 				rate_limit.limit()
-				mod_type = platform_info.get("platform")
-				if mod_type == None:
-					raise Error(f"{mod_id}'s platform info is null")
-				elif mod_type.get("type") == "modrinth":
-					if mod_type["version_id"] != None:
-						subprocess.run([packwiz, "modrinth", "install", "--project-id", mod_type["project_id"], "--version-id", mod_type["version_id"], "-y"])
-				elif mod_type.get("type") == "other":
-					if mod_type["download_url"] != None:
-						subprocess.run([packwiz, "url", "add", mod_id, mod_type["download_url"]])
-				else:
-					raise Error(f"Invalid platform type {mod_type}")
+				mod_type = {
+					"version_id": platform_info["version_id"],
+					"project_id": platform_info["project_id"]
+				}
+				# mod_type = platform_info.get("platform")
+				# if mod_type == None:
+				# 	raise Error(f"{mod_id}'s platform info is null")
+				# elif mod_type.get("type") == "modrinth":
+				# 	if mod_type["version_id"] != None:
+				# 		subprocess.run([packwiz, "modrinth", "install", "--project-id", mod_type["project_id"], "--version-id", mod_type["version_id"], "-y"])
+				# elif mod_type.get("type") == "other":
+				# 	if mod_type["download_url"] != None:
+				# 		subprocess.run([packwiz, "url", "add", mod_id, mod_type["download_url"]])
+				# else:
+				# 	raise Error(f"Invalid platform type {mod_type}")
+				subprocess.run([packwiz, "modrinth", "install", "--project-id", mod_type["project_id"], "--version-id", mod_type["version_id"], "-y"])
 
 				# Now lets see which files packwiz thought we should download
 				files = {}
