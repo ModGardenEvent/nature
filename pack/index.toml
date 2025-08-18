@@ -193,6 +193,10 @@ file = "mods/lmft.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/macos-input-fixes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
@@ -254,6 +258,10 @@ metafile = true
 
 [[files]]
 file = "mods/tmyk.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wayfix.pw.toml"
 metafile = true
 
 [[files]]
