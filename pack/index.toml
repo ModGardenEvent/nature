@@ -261,10 +261,6 @@ file = "mods/tmyk.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/wayfix.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/worldedit-client.toml"
 metafile = true
 
