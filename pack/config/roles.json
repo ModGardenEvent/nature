@@ -1,7 +1,7 @@
 {
     "team": {
         "level": 100,
-		"includes": ["volunteer"],
+		"includes": ["participant", "volunteer"],
         "overrides": {
             "permission_level": 4,
             "permission_keys": {
@@ -70,3 +70,4 @@
         }
     }
 }
+
