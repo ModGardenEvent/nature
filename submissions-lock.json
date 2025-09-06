@@ -1,4 +1,49 @@
 {
+	"abysm": {
+		"files": {
+			"mods/abysm.pw.toml": {
+				"download": {
+					"hash": "4a5438d68d86f460fcc8d87bf2bcf0ea3bab6c137c728b15b91032e4087487a0228d0b6b51638466b31a145cf911489494b20f7d22cde48c723c58f5c962320d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Bhmgrvkz/versions/tF4wxb6h/abysm-1.0.0%2B1.21.5.jar"
+				},
+				"filename": "abysm-1.0.0+1.21.5.jar",
+				"name": "Abysm",
+				"side": "both"
+			},
+			"mods/biolith.pw.toml": {
+				"download": {
+					"hash": "a1688c7488dfe4131cd453b908871f269dc25b0811ded659b2e52619ea94af96ce4d9b80035175561ac570ef868590cc58735b0aba1568aac807d451a9224190",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/eJic4xUK/biolith-fabric-3.3.2.jar"
+				},
+				"filename": "biolith-fabric-3.3.2.jar",
+				"name": "Biolith",
+				"side": "server"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/geckolib.pw.toml": {
+				"download": {
+					"hash": "5042b2030bc16f8a357dcb353655c1b02f7ca1aab92031ead53ca53c1072cf7a07021daa0633b81f665bf995fee59deca69de3f438aa16ccfa4c55a552759598",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/AyXpbm2h/geckolib-fabric-1.21.5-5.1.0.jar"
+				},
+				"filename": "geckolib-fabric-1.21.5-5.1.0.jar",
+				"name": "Geckolib",
+				"side": "both"
+			}
+		},
+		"key": "38f53ba12e4c92e3c800019aa7b921e84af103d086a4ab1e9cb7348c1901d0aa"
+	},
 	"always-a-bigger-fish": {
 		"files": {
 			"mods/always-a-bigger-fish.pw.toml": {
@@ -118,16 +163,16 @@
 			},
 			"mods/x-bar-theory.pw.toml": {
 				"download": {
-					"hash": "4526000f34916d788e20261ac4704a3c70600903d4592644d5bcdddef38ed4089836cc24768741143cd713b6b03cc8d3168acd37df2337216400e5474dcb6627",
+					"hash": "55bd015270d28ebbea763cbbd9eacbc4ef4ebb62e123fa30eb8c0717ba16ace632eb416a1311315bd78d55461e371293464b9b49015dec9c7dee430495e20104",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/NibiuFY6/versions/tw8sarg2/x-bar-theory-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/NibiuFY6/versions/12ISCRJM/x-bar-theory-1.0.5.jar"
 				},
-				"filename": "x-bar-theory-1.0.2.jar",
+				"filename": "x-bar-theory-1.0.5.jar",
 				"name": "X-Bar Theory",
 				"side": "both"
 			}
 		},
-		"key": "4e6572872806583622bd2b387973de147e66d83bc241f88faf05cf1af421f931"
+		"key": "474c42848ef9ca600b71fb9b05b727e2c41b8939ca12647d3b7020f5ffd00472"
 	},
 	"x4c552hp": {
 		"files": {
