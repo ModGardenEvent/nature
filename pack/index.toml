@@ -141,10 +141,6 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cantilever.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
