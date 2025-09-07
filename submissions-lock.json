@@ -79,6 +79,21 @@
 		},
 		"key": "c7f1af91e2dee4315421f9739d692da602a78996346d3d2a3635e4722bcfeaa4"
 	},
+	"genetica-flora": {
+		"files": {
+			"mods/genetica-flora.pw.toml": {
+				"download": {
+					"hash": "3ff7c51ae727e408fa6f6f30653df7febce263a3c2a476c3334e5b202ead5edadac70693cc00b1d89c32278953ab5ef086b06b1974e2822d33302ed69fed425f",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/VKq2NPhC/versions/If39LKTy/Genetica%20Flora-fabric-0.1.0%2B1.21.5.jar"
+				},
+				"filename": "Genetica Flora-fabric-0.1.0+1.21.5.jar",
+				"name": "Genetica Flora",
+				"side": "both"
+			}
+		},
+		"key": "23060c6b09227ce91c488ce3588a03a24f48253fa37a9f723e72b95e358619a9"
+	},
 	"nemetona": {
 		"files": {
 			"mods/nemetona.pw.toml": {
