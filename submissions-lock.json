@@ -1,1 +1,257 @@
-{}
+{
+	"abysm": {
+		"files": {
+			"mods/abysm.pw.toml": {
+				"download": {
+					"hash": "4a5438d68d86f460fcc8d87bf2bcf0ea3bab6c137c728b15b91032e4087487a0228d0b6b51638466b31a145cf911489494b20f7d22cde48c723c58f5c962320d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Bhmgrvkz/versions/tF4wxb6h/abysm-1.0.0%2B1.21.5.jar"
+				},
+				"filename": "abysm-1.0.0+1.21.5.jar",
+				"name": "Abysm",
+				"side": "both"
+			},
+			"mods/biolith.pw.toml": {
+				"download": {
+					"hash": "a1688c7488dfe4131cd453b908871f269dc25b0811ded659b2e52619ea94af96ce4d9b80035175561ac570ef868590cc58735b0aba1568aac807d451a9224190",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/eJic4xUK/biolith-fabric-3.3.2.jar"
+				},
+				"filename": "biolith-fabric-3.3.2.jar",
+				"name": "Biolith",
+				"side": "server"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/geckolib.pw.toml": {
+				"download": {
+					"hash": "5042b2030bc16f8a357dcb353655c1b02f7ca1aab92031ead53ca53c1072cf7a07021daa0633b81f665bf995fee59deca69de3f438aa16ccfa4c55a552759598",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/AyXpbm2h/geckolib-fabric-1.21.5-5.1.0.jar"
+				},
+				"filename": "geckolib-fabric-1.21.5-5.1.0.jar",
+				"name": "Geckolib",
+				"side": "both"
+			}
+		},
+		"key": "38f53ba12e4c92e3c800019aa7b921e84af103d086a4ab1e9cb7348c1901d0aa"
+	},
+	"always-a-bigger-fish": {
+		"files": {
+			"mods/always-a-bigger-fish.pw.toml": {
+				"download": {
+					"hash": "5bb322210c428e5473356b1eae09f7d67dadbe3f698fd5e8031b5dc73ea64f060eed33d8bc8b8e8d4a3d1b2e29b12e0b61da280ec8c981b05bdc17cf35f0dce3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/tKKzcK6F/versions/86O0NSNP/bigger_fish-fabric-1.0.1%2B1.21.5.jar"
+				},
+				"filename": "bigger_fish-fabric-1.0.1+1.21.5.jar",
+				"name": "There's Always a Bigger Fish",
+				"side": "both"
+			},
+			"mods/compost.pw.toml": {
+				"download": {
+					"hash": "6fb7e1bc796f4bf725a072630392d264454a623af6cce45f0488b69a445c5ae6c7de054669ea59e5fe49f52c0259f51a2b9985099421203ce723d328e303daa6",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/1hn9SStW/versions/n3Q0yENX/compost-fabric-1.21.5-2.1.1.jar"
+				},
+				"filename": "compost-fabric-1.21.5-2.1.1.jar",
+				"name": "Compost",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			}
+		},
+		"key": "c7f1af91e2dee4315421f9739d692da602a78996346d3d2a3635e4722bcfeaa4"
+	},
+	"ambrosiac": {
+		"files": {
+			"mods/ambrosiac.pw.toml": {
+				"download": {
+					"hash": "c4cd39f1ef29a0e8dfcb54d1677827799866929161077f8169a081ec927f7af5544d0f2612a96f6f8620901dc03e19f6476b95dbf8b54dd5de8e829d89026c42",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/5GiCaNvf/versions/aUMzEzEU/ambrosiac-1.0.0-dev.jar"
+				},
+				"filename": "ambrosiac-1.0.0-dev.jar",
+				"name": "Ambrosiac",
+				"side": "both"
+			}
+		},
+		"key": "ce084482a2dd9add5cd7118e2e5f7b4b3d61496f1a8c6272a1681222d9698968"
+	},
+	"genetica-flora": {
+		"files": {
+			"mods/genetica-flora.pw.toml": {
+				"download": {
+					"hash": "3ff7c51ae727e408fa6f6f30653df7febce263a3c2a476c3334e5b202ead5edadac70693cc00b1d89c32278953ab5ef086b06b1974e2822d33302ed69fed425f",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/VKq2NPhC/versions/If39LKTy/Genetica%20Flora-fabric-0.1.0%2B1.21.5.jar"
+				},
+				"filename": "Genetica Flora-fabric-0.1.0+1.21.5.jar",
+				"name": "Genetica Flora",
+				"side": "both"
+			}
+		},
+		"key": "23060c6b09227ce91c488ce3588a03a24f48253fa37a9f723e72b95e358619a9"
+	},
+	"nemetona": {
+		"files": {
+			"mods/nemetona.pw.toml": {
+				"download": {
+					"hash": "e3a5c2ebbf407b3b9b90fafe2ce35c780029048a353ba7e7b2a8cdeee4f2345f5510849b49df848f906cce60ff1e4fd19cd41a5b6b2ca3ebdaa1242f1962fb56",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/8LSUdWa7/versions/65WQUJFP/nemetona-1.0.0.jar"
+				},
+				"filename": "nemetona-1.0.0.jar",
+				"name": "Nemetona",
+				"side": "both"
+			}
+		},
+		"key": "08abbe74cf38b4c678e36b66886289c6765815fb34019083646b5854ae2a200c"
+	},
+	"pigs-eat-mushrooms": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/pigs-eat-mushrooms.pw.toml": {
+				"download": {
+					"hash": "09d8f01bc5720f32ecab018fe25cce05c5f73ccfc79eabd1d02896cdc07b210d8d24f6034b4c44fa4d6e4bac45462dcd362ad21feaf31021e1e8ad9d70c994a1",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/sR4ZK4n6/versions/e4jgavCm/pigs-eat-mushrooms-1.0.0.jar"
+				},
+				"filename": "pigs-eat-mushrooms-1.0.0.jar",
+				"name": "Pigs Eat Mushrooms",
+				"side": "both"
+			}
+		},
+		"key": "7bd5a132665dbfbf0304f8a89c79ecc23b3e269100dd341822af54c4ae71c132"
+	},
+	"spud_slingers": {
+		"files": {
+			"mods/spud_slingers.pw.toml": {
+				"download": {
+					"hash": "8e839675e508288be61e91afb9544b2a209fa5640b93595c182cab59a55f829745e64557a66c7c52f0007036465a001bf1112fb89d41bb03272ab5350aa099be",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/1XkIeaZ7/versions/37ZD9Z31/spud_slingers-1.0.1%2B1.21.5.jar"
+				},
+				"filename": "spud_slingers-1.0.1+1.21.5.jar",
+				"name": "Spud Slingers",
+				"side": "both"
+			}
+		},
+		"key": "abe43040d0890927fe14ee36195afb3e486c40613a11c19578e9ba2e4cc07d94"
+	},
+	"variant-lib": {
+		"files": {
+			"mods/variant-lib.pw.toml": {
+				"download": {
+					"hash": "f6b52b272132e4d23c1207580749b29179cf94d418e8d198ae5689c307a5ea0a16651176944f249201fd8f1d0e5303a5996725bb48e251f9bc70e187367edbd1",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/LQCrGzOR/versions/CvCDHvhY/variantlib-fabric-0.2.1%2B1.21.5.jar"
+				},
+				"filename": "variantlib-fabric-0.2.1+1.21.5.jar",
+				"name": "Variant Lib",
+				"side": "both"
+			}
+		},
+		"key": "4395c0cb779ccf5d38eda2161b706f56c08bc3653aa692b5b6f5022fbd8f7550"
+	},
+	"x-bar-theory": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/x-bar-theory.pw.toml": {
+				"download": {
+					"hash": "55bd015270d28ebbea763cbbd9eacbc4ef4ebb62e123fa30eb8c0717ba16ace632eb416a1311315bd78d55461e371293464b9b49015dec9c7dee430495e20104",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/NibiuFY6/versions/12ISCRJM/x-bar-theory-1.0.5.jar"
+				},
+				"filename": "x-bar-theory-1.0.5.jar",
+				"name": "X-Bar Theory",
+				"side": "both"
+			}
+		},
+		"key": "474c42848ef9ca600b71fb9b05b727e2c41b8939ca12647d3b7020f5ffd00472"
+	},
+	"x4c552hp": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/mintyblends.pw.toml": {
+				"download": {
+					"hash": "4dc54d9a611b8b8556abaed6d406cc66e59dd1239003557f3d86fdc7440d5b8beefd899d272e4cdb2157db506c51093be698fb7c7f706cd17fae10afb29a3f32",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/x4c552hp/versions/VE166JQc/mintyblends-1.0.1-1.21.5.jar"
+				},
+				"filename": "mintyblends-1.0.1-1.21.5.jar",
+				"name": "Minty Blends",
+				"side": "both"
+			}
+		},
+		"key": "facfe3a6ffd4d226807f9afe5cf132b718043ed7d3ebf0594be6f36d1814da21"
+	},
+	"zeeraket": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/zeeraket.pw.toml": {
+				"download": {
+					"hash": "ce01ab3c1ffa91c627f3674a34f07aeaf92beaf0da304ea80581aa1c5f49016c3f82651b255f5e23b9a5935c591c40abd3cd75a874822e83d2e84da62c2772f8",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/UDP0Aohh/versions/BclikJLv/zeeraket-1.0.0.jar"
+				},
+				"filename": "zeeraket-1.0.0.jar",
+				"name": "Zeeraket",
+				"side": "both"
+			}
+		},
+		"key": "8f0fb509236371f2e7b1ef290bdfcc3865f6a0e892e1e62288be17cc6ecfcad9"
+	}
+}
