@@ -16,7 +16,8 @@ def main():
 	pack_toml_file = repo_root / "pack" / "pack.toml"
 	generated_dir = common.get_generated_dir()
 	repo_name = os.path.basename(repo_root.resolve())
-    event_type = constants_file["event_type"]
+	constants = common.jsonc_at_home(common.read_file(constants_file))
+	event_type = constants["event_type"]
 
 	for (url, ext) in [
 		[f"https://{repo_name}.{event_type}.pack.modgarden.net/pack.toml", "Build"],
@@ -26,7 +27,6 @@ def main():
 		print(f"Generating packs for {url}")
 
 		packwiz_info = common.parse_packwiz(pack_toml_file)
-		constants = common.jsonc_at_home(common.read_file(constants_file))
 
 		# Create prism zip
 		prism = generated_dir / f"{packwiz_info.safe_name()}-{ext}.zip"
