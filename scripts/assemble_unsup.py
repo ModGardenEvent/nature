@@ -16,10 +16,11 @@ def main():
 	pack_toml_file = repo_root / "pack" / "pack.toml"
 	generated_dir = common.get_generated_dir()
 	repo_name = os.path.basename(repo_root.resolve())
+    event_type = constants_file["event_type"]
 
 	for (url, ext) in [
-		[f"https://modgardenevent.github.io/{repo_name}/pack.toml", "Build"],
-		[f"https://modgardenevent.github.io/{repo_name}/test/pack.toml", "Test"],
+		[f"https://{repo_name}.{event_type}.pack.modgarden.net/pack.toml", "Build"],
+		[f"https://{repo_name}.{event_type}.pack.modgarden.net/test/pack.toml", "Test"],
 		[f"http://localhost:8080/pack.toml", "Debug"]
 	]:
 		print(f"Generating packs for {url}")
