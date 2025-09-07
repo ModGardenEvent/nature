@@ -79,6 +79,21 @@
 		},
 		"key": "c7f1af91e2dee4315421f9739d692da602a78996346d3d2a3635e4722bcfeaa4"
 	},
+	"ambrosiac": {
+		"files": {
+			"mods/ambrosiac.pw.toml": {
+				"download": {
+					"hash": "c4cd39f1ef29a0e8dfcb54d1677827799866929161077f8169a081ec927f7af5544d0f2612a96f6f8620901dc03e19f6476b95dbf8b54dd5de8e829d89026c42",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/5GiCaNvf/versions/aUMzEzEU/ambrosiac-1.0.0-dev.jar"
+				},
+				"filename": "ambrosiac-1.0.0-dev.jar",
+				"name": "Ambrosiac",
+				"side": "both"
+			}
+		},
+		"key": "ce084482a2dd9add5cd7118e2e5f7b4b3d61496f1a8c6272a1681222d9698968"
+	},
 	"genetica-flora": {
 		"files": {
 			"mods/genetica-flora.pw.toml": {
