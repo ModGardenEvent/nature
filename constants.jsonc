@@ -3,6 +3,8 @@
     "event": "mod-garden-nature",
     // The subdirectory in https://github.com/ModGardenEvent/art used for pulling the icon
     "art_id": "mod-garden/nature",
+	// The type of this event
+	"event_type": "mod-garden",
 
     // Central definition of colours
     // This is a freeform key-value field. Values prefixed with an underscore are depended upon by scripts
