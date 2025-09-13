@@ -1,0 +1,13 @@
+name = "Extended ItemView (EIV)"
+filename = "eiv-fabric-2.6.1+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zAvmADy9/versions/x5OsJXLC/eiv-fabric-2.6.1%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "0d393161824b456feadd245e58430059e247b29c23f9462ee5d64845fd754858b9d2ecd024491764e081ebc98952763737534f46f41c2ad6914ca709be5c1c10"
+
+[update]
+[update.modrinth]
+mod-id = "zAvmADy9"
+version = "x5OsJXLC"
