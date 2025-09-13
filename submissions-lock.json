@@ -3,21 +3,21 @@
 		"files": {
 			"mods/abysm.pw.toml": {
 				"download": {
-					"hash": "4a5438d68d86f460fcc8d87bf2bcf0ea3bab6c137c728b15b91032e4087487a0228d0b6b51638466b31a145cf911489494b20f7d22cde48c723c58f5c962320d",
+					"hash": "51388f61278d0a3fb6d6293c8093964dd6ed0c2ba59a5573e9612cb44b54d62dbb1b3d8e290ed0809018e2acae7e2009b327ce627c5cbe6503005e443353e43d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Bhmgrvkz/versions/tF4wxb6h/abysm-1.0.0%2B1.21.5.jar"
+					"url": "https://cdn.modrinth.com/data/Bhmgrvkz/versions/hv4AUick/abysm-0.0.3%2B1.21.5.jar"
 				},
-				"filename": "abysm-1.0.0+1.21.5.jar",
+				"filename": "abysm-0.0.3+1.21.5.jar",
 				"name": "Abysm",
 				"side": "both"
 			},
 			"mods/biolith.pw.toml": {
 				"download": {
-					"hash": "a1688c7488dfe4131cd453b908871f269dc25b0811ded659b2e52619ea94af96ce4d9b80035175561ac570ef868590cc58735b0aba1568aac807d451a9224190",
+					"hash": "f4477b668389f076e159360a0cfd4acdb5204287a29108a8be5c1abec47a0bff7f26fd0a0ee096775a1f55206184e39f5a5362e9f225a7e4a0b075a9de7da9c7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/eJic4xUK/biolith-fabric-3.3.2.jar"
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/RuSXfMNu/biolith-fabric-3.3.4.jar"
 				},
-				"filename": "biolith-fabric-3.3.2.jar",
+				"filename": "biolith-fabric-3.3.4.jar",
 				"name": "Biolith",
 				"side": "server"
 			},
@@ -42,17 +42,17 @@
 				"side": "both"
 			}
 		},
-		"key": "38f53ba12e4c92e3c800019aa7b921e84af103d086a4ab1e9cb7348c1901d0aa"
+		"key": "8d2758ea2f58fff03dc9561cb4e3c5f7cd8593618af3cbf197e3a65ce63a6d77"
 	},
 	"always-a-bigger-fish": {
 		"files": {
 			"mods/always-a-bigger-fish.pw.toml": {
 				"download": {
-					"hash": "5bb322210c428e5473356b1eae09f7d67dadbe3f698fd5e8031b5dc73ea64f060eed33d8bc8b8e8d4a3d1b2e29b12e0b61da280ec8c981b05bdc17cf35f0dce3",
+					"hash": "0cbe2721327ccdcc1a3f2727fe380167052f8cc0579f101a7a49e791ab431d13ce32bc860e36484b33b0964b89fab8e46c42f6cbf3accb62a3d849ed312b1a82",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/tKKzcK6F/versions/86O0NSNP/bigger_fish-fabric-1.0.1%2B1.21.5.jar"
+					"url": "https://cdn.modrinth.com/data/tKKzcK6F/versions/ry25D8rY/bigger_fish-fabric-1.0.2%2B1.21.5.jar"
 				},
-				"filename": "bigger_fish-fabric-1.0.1+1.21.5.jar",
+				"filename": "bigger_fish-fabric-1.0.2+1.21.5.jar",
 				"name": "There's Always a Bigger Fish",
 				"side": "both"
 			},
@@ -65,19 +65,9 @@
 				"filename": "compost-fabric-1.21.5-2.1.1.jar",
 				"name": "Compost",
 				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
-				},
-				"filename": "fabric-api-0.128.2+1.21.5.jar",
-				"name": "Fabric API",
-				"side": "both"
 			}
 		},
-		"key": "c7f1af91e2dee4315421f9739d692da602a78996346d3d2a3635e4722bcfeaa4"
+		"key": "281f9b73cc7c0f376ac1ff9cf1a92c7e365183e16543585599854212e8df071f"
 	},
 	"ambrosiac": {
 		"files": {
@@ -218,16 +208,16 @@
 			},
 			"mods/mintyblends.pw.toml": {
 				"download": {
-					"hash": "4dc54d9a611b8b8556abaed6d406cc66e59dd1239003557f3d86fdc7440d5b8beefd899d272e4cdb2157db506c51093be698fb7c7f706cd17fae10afb29a3f32",
+					"hash": "eb98f9a1e40c9f92686227ecf2ee3dd3dcb2f4d108c50601d1a1db1d1aa5b32ea4dff39cc9fb5d4dfa7f3fd172c9f888a7e6a558920e78cab6ecb3f300d58638",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/x4c552hp/versions/VE166JQc/mintyblends-1.0.1-1.21.5.jar"
+					"url": "https://cdn.modrinth.com/data/x4c552hp/versions/pKFpSeoh/mintyblends-1.1.0-1.21.5.jar"
 				},
-				"filename": "mintyblends-1.0.1-1.21.5.jar",
+				"filename": "mintyblends-1.1.0-1.21.5.jar",
 				"name": "Minty Blends",
 				"side": "both"
 			}
 		},
-		"key": "facfe3a6ffd4d226807f9afe5cf132b718043ed7d3ebf0594be6f36d1814da21"
+		"key": "9dc939162c86a0d26943fb255d56bcc8fcb3e78dbbb242212f060689ac17c023"
 	},
 	"zeeraket": {
 		"files": {
