@@ -23,7 +23,8 @@
 		"includes": ["volunteer"],
         "overrides": {
             "permission_keys": {
-                "modgarden.participant": "allow"
+                "modgarden.participant": "allow",
+				"modgarden.volunteer": "deny"
             }
         }
     },
