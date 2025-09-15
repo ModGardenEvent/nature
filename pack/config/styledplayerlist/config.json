@@ -24,6 +24,22 @@
         },
         "format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
         "passthrough": false
+      },
+      {
+        "require": {
+          "type": "permission",
+          "permission": "modgarden.participant"
+        },
+        "format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
+        "passthrough": false
+      },
+      {
+        "require": {
+          "type": "permission",
+          "permission": "modgarden.volunteer"
+        },
+        "format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
+        "passthrough": false
       }
     ]
   },

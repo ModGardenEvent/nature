@@ -13,6 +13,18 @@ file = "allium/hangman/words.lua"
 file = "config/ChineseIME/config.json"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+
+[[files]]
 file = "config/ballotbox.toml"
 
 [[files]]
@@ -38,6 +50,9 @@ file = "config/glowcase.toml"
 
 [[files]]
 file = "config/hoofprint.toml"
+
+[[files]]
+file = "config/item_descriptions.toml"
 
 [[files]]
 file = "config/lmft.json"
@@ -133,6 +148,10 @@ file = "mods/badstdout.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/barricade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-narrator-error.pw.toml"
 metafile = true
 
@@ -146,6 +165,13 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ears-platform-modern-fabric-2.0.0-modgardenfest.1.jar"
+
+[[files]]
+file = "mods/eiv.pw.toml"
 metafile = true
 
 [[files]]
@@ -163,6 +189,9 @@ metafile = true
 [[files]]
 file = "mods/floralie.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/flowerbed-0.1.0+1.21.5.jar"
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
