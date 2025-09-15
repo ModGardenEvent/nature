@@ -485,9 +485,6 @@ file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/lesbian_heart.png"
 
 [[files]]
-file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/lil_pineapple.png"
-
-[[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mod_garden.png"
 
 [[files]]
@@ -516,6 +513,9 @@ file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/queer_prog_heart.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/tiny_pineapple.png"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/trans_heart.png"
