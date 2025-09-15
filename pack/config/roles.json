@@ -31,7 +31,6 @@
 		"level": 10,
 		"overrides": {
 			"permission_keys": {
-				"modgarden.volunteer": "allow",
 				"permission_level": 2,
 				"permission_keys": {
 					"modgarden.volunteer": "allow",
