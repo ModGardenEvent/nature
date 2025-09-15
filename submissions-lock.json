@@ -208,16 +208,16 @@
 			},
 			"mods/mintyblends.pw.toml": {
 				"download": {
-					"hash": "eb98f9a1e40c9f92686227ecf2ee3dd3dcb2f4d108c50601d1a1db1d1aa5b32ea4dff39cc9fb5d4dfa7f3fd172c9f888a7e6a558920e78cab6ecb3f300d58638",
+					"hash": "6b290248d672f7e49055ae4de01975cc2fa449ab1c2cbeacfb2e28a56546419aafbf34fa94c4abc27d1710898b14ab88e6086a5daaf2bdedfb4d2da55c33b4c8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/x4c552hp/versions/pKFpSeoh/mintyblends-1.1.0-1.21.5.jar"
+					"url": "https://cdn.modrinth.com/data/x4c552hp/versions/u7EH4Of3/mintyblends-1.1.1-1.21.5.jar"
 				},
-				"filename": "mintyblends-1.1.0-1.21.5.jar",
+				"filename": "mintyblends-1.1.1-1.21.5.jar",
 				"name": "Minty Blends",
 				"side": "both"
 			}
 		},
-		"key": "9dc939162c86a0d26943fb255d56bcc8fcb3e78dbbb242212f060689ac17c023"
+		"key": "3f21d83d64fec426f593687c5d31030bad80597584d38a593a80262ab82abb2e"
 	},
 	"zeeraket": {
 		"files": {
