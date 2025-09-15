@@ -137,7 +137,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "modgarden:emoji/lil_pineapple.png",
+			"file": "modgarden:emoji/tiny_pineapple.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
