@@ -148,7 +148,8 @@ file = "mods/badstdout.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/barricade-fabric-3.0.0-alpha.3+1.21.5.jar"
+file = "mods/barricade.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/better-narrator-error.pw.toml"
