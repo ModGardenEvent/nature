@@ -73,16 +73,16 @@
 		"files": {
 			"mods/ambrosiac.pw.toml": {
 				"download": {
-					"hash": "c4cd39f1ef29a0e8dfcb54d1677827799866929161077f8169a081ec927f7af5544d0f2612a96f6f8620901dc03e19f6476b95dbf8b54dd5de8e829d89026c42",
+					"hash": "7e096cb1eaea661483c73ccef7e5bcfb5a02ead324d16769640c8687f8efa4db35d5c43474c198f0a5c34620b8ce564a47551505d8b87aceca2ba1518de91a92",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5GiCaNvf/versions/aUMzEzEU/ambrosiac-1.0.0-dev.jar"
+					"url": "https://cdn.modrinth.com/data/5GiCaNvf/versions/8ogypAf6/ambrosiac-1.0.0.jar"
 				},
-				"filename": "ambrosiac-1.0.0-dev.jar",
+				"filename": "ambrosiac-1.0.0.jar",
 				"name": "Ambrosiac",
 				"side": "both"
 			}
 		},
-		"key": "ce084482a2dd9add5cd7118e2e5f7b4b3d61496f1a8c6272a1681222d9698968"
+		"key": "c547297a190ddf7b5e2446360588a9f1f5c566f11b022fd5d6db4f76905aec50"
 	},
 	"genetica-flora": {
 		"files": {
@@ -183,16 +183,16 @@
 			},
 			"mods/x-bar-theory.pw.toml": {
 				"download": {
-					"hash": "55bd015270d28ebbea763cbbd9eacbc4ef4ebb62e123fa30eb8c0717ba16ace632eb416a1311315bd78d55461e371293464b9b49015dec9c7dee430495e20104",
+					"hash": "71b304efcab6784747e11d2a02d84edc7376478aad4a3e510b3584897df98b63d824972ce02c7b20f92f65ab314a07a8a2076d3f61b5beca3792070d382d27dc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/NibiuFY6/versions/12ISCRJM/x-bar-theory-1.0.5.jar"
+					"url": "https://cdn.modrinth.com/data/NibiuFY6/versions/yF1afOsG/x-bar-theory-1.0.6.jar"
 				},
-				"filename": "x-bar-theory-1.0.5.jar",
+				"filename": "x-bar-theory-1.0.6.jar",
 				"name": "X-Bar Theory",
 				"side": "both"
 			}
 		},
-		"key": "474c42848ef9ca600b71fb9b05b727e2c41b8939ca12647d3b7020f5ffd00472"
+		"key": "b6d1f2e064b833d9e2a950b97a2b33d0d9a882fe9cc0b58351a70ffe90138be5"
 	},
 	"x4c552hp": {
 		"files": {
