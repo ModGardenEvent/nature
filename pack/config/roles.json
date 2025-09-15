@@ -18,44 +18,46 @@
             }
         }
     },
-	"volunteer": {
-		"level": 15,
-		"includes": ["participant"],
-		"overrides": {
-			"permission_keys": {
-				"modgarden.volunteer": "allow",
-				"modgarden.participant": "deny"
-			}
-		}
-	},
     "participant": {
-        "level": 10,
+        "level": 15,
+		"includes": ["volunteer"],
         "overrides": {
-            "permission_level": 2,
             "permission_keys": {
-                "modgarden.participant": "allow",
-                "worldedit.*": "allow",
-                "scattered_shards.command.award": "allow",
-                "scattered_shards.command.collect": "allow",
-                "scattered_shards.command.uncollect.*": "allow",
-                "scattered_shards.command.block": "allow",
-                "scattered_shards.modify_shard": "allow",
-                "armor_stand_editor.*": "allow",
-				"styledchat.set": "deny",
-				"styledchat.clear": "deny"
-            },
-            "command_feedback": true,
-            "entity_selectors": false,
-            "commands": {
-                "gamemode.*": "allow",
-                "tp @[^e].*": "allow",
-                "fill.*": "allow",
-                "setblock.*": "allow",
-                "summon.*": "allow",
-                "rregion.*": "allow"
+                "modgarden.participant": "allow"
             }
         }
     },
+	"volunteer": {
+		"level": 10,
+		"overrides": {
+			"permission_keys": {
+				"modgarden.volunteer": "allow",
+				"permission_level": 2,
+				"permission_keys": {
+					"modgarden.volunteer": "allow",
+					"worldedit.*": "allow",
+					"scattered_shards.command.award": "allow",
+					"scattered_shards.command.collect": "allow",
+					"scattered_shards.command.uncollect.*": "allow",
+					"scattered_shards.command.block": "allow",
+					"scattered_shards.modify_shard": "allow",
+					"armor_stand_editor.*": "allow",
+					"styledchat.set": "deny",
+					"styledchat.clear": "deny"
+				},
+				"command_feedback": true,
+				"entity_selectors": false,
+				"commands": {
+					"gamemode.*": "allow",
+					"tp @[^e].*": "allow",
+					"fill.*": "allow",
+					"setblock.*": "allow",
+					"summon.*": "allow",
+					"rregion.*": "allow"
+				}
+			}
+		}
+	},
     "everyone": {
         "overrides": {
             "permission_keys": {
