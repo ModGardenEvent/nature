@@ -1,33 +1,33 @@
 {
-    "team": {
-        "level": 100,
+	"team": {
+		"level": 100,
 		"includes": ["participant", "volunteer"],
-        "overrides": {
-            "permission_level": 4,
-            "permission_keys": {
+		"overrides": {
+			"permission_level": 4,
+			"permission_keys": {
 				"modgarden.netadmin": "allow",
-                "modgarden.organizer": "allow",
-                "scattered_shards.*": "allow",
+				"modgarden.organizer": "allow",
+				"scattered_shards.*": "allow",
 				"styledchat.set": "allow",
 				"styledchat.clear": "allow"
-            },
+			},
 			"command_feedback": true,
-            "entity_selectors": true,
-            "commands": {
+			"entity_selectors": true,
+			"commands": {
 				".*": "allow"
-            }
-        }
-    },
-    "participant": {
-        "level": 15,
+			}
+		}
+	},
+	"participant": {
+		"level": 15,
 		"includes": ["volunteer"],
-        "overrides": {
-            "permission_keys": {
-                "modgarden.participant": "allow",
+		"overrides": {
+			"permission_keys": {
+				"modgarden.participant": "allow",
 				"modgarden.volunteer": "deny"
-            }
-        }
-    },
+			}
+		}
+	},
 	"volunteer": {
 		"level": 10,
 		"overrides": {
@@ -52,23 +52,24 @@
 				"fill.*": "allow",
 				"setblock.*": "allow",
 				"summon.*": "allow",
-				"rregion.*": "allow"
+				"rregion.*": "allow",
+				"reload": "deny"
 			}
 		}
 	},
-    "everyone": {
-        "overrides": {
-            "permission_keys": {
-                "modgarden.everyone": "allow",
-                "worldedit.*": "deny",
-                "scattered_shards.*": "deny",
-                "armor_stand_editor.*": "deny"
-            },
-            "commands": {
-                "help": "allow",
-                "polymer.*": "deny"
-            }
-        }
-    }
+	"everyone": {
+		"overrides": {
+			"permission_keys": {
+				"modgarden.everyone": "allow",
+				"worldedit.*": "deny",
+				"scattered_shards.*": "deny",
+				"armor_stand_editor.*": "deny"
+			},
+			"commands": {
+				"help": "allow",
+				"polymer.*": "deny"
+			}
+		}
+	}
 }
 
