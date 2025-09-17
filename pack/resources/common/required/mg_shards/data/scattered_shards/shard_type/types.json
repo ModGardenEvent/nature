@@ -1,0 +1,164 @@
+{
+	"display_settings": {
+		"draw_mini_icons": true,
+		"library_color": "#988e8e",
+		"library_set_name_color": "#ffffff",
+		"viewer_top_color": "#c1ffab",
+		"viewer_bottom_color": "#73d46c"
+	},
+	"modgarden:daisy": {
+		"text_color": "#ffffff",
+		"glow_color": "#ffc849",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 12,
+					"left": 12
+				},
+				"mini": {
+					"top": 2,
+					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 40,
+					"height": 40
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
+			}
+		},
+		"collect_particle": "minecraft:glow",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_visitor"
+		},
+		"list_order": 1
+	},
+	"modgarden:rose": {
+		"text_color": "#ff5555",
+		"glow_color": "#fff596",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 12,
+					"left": 12
+				},
+				"mini": {
+					"top": 2,
+					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 40,
+					"height": 40
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 2
+	},
+	"modgarden:sunflower": {
+		"text_color": "#ffff55",
+		"glow_color": "#fff596",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 12,
+					"left": 12
+				},
+				"mini": {
+					"top": 2,
+					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 40,
+					"height": 40
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 3
+	},
+	"modgarden:chrysanthemum": {
+		"text_color": "#55ff55",
+		"glow_color": "#fff596",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 12,
+					"left": 12
+				},
+				"mini": {
+					"top": 2,
+					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 40,
+					"height": 40
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 4
+	},
+	"modgarden:cornflower": {
+		"text_color": "#5555ff",
+		"glow_color": "#fff596",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 12,
+					"left": 12
+				},
+				"mini": {
+					"top": 2,
+					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 40,
+					"height": 40
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
+			}
+		},
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 5
+	}
+}
