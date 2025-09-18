@@ -20,8 +20,8 @@ def main():
 	event_type = constants["event_type"]
 
 	for (url, ext) in [
-		[f"https://{repo_name}.{event_type}.pack.modgarden.net/pack.toml", "Build"],
-		[f"https://{repo_name}.{event_type}.pack.modgarden.net/test/pack.toml", "Test"],
+		[f"https://pack.modgarden.net/{event_type}/{repo_name}/pack.toml", "Build"],
+		[f"https://pack.modgarden.net/{event_type}/{repo_name}/test/pack.toml", "Test"],
 		[f"http://localhost:8080/pack.toml", "Debug"]
 	]:
 		print(f"Generating packs for {url}")
