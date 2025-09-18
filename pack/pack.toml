@@ -10,9 +10,9 @@ hash-format = "sha256"
 [versions]
 fabric = "0.17.2"
 minecraft = "1.21.5"
-unsup = "1.0.2"
-unsup-experimental = "1.1.4"
-unsup-stable = "1.0.2"
+unsup = "1.1.6"
+unsup-experimental = "1.2.0-pre1"
+unsup-stable = "1.1.6"
 
 [options]
 acceptable-game-versions = ["1.21.4"]
