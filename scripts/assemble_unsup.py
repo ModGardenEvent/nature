@@ -41,7 +41,7 @@ def main():
 
 			art_id = constants["art_id"]
 			with output_zip.open(f"{icon_key}.png", mode="w") as f:
-				f.write(requests.get(f'https://github.com/ModGardenEvent/art/blob/main/graphics/64x/{art_id}/icon.png?raw=true').content)
+				f.write(requests.get(f'https://repo.modgarden.net/art/blob/main/graphics/64x/{art_id}/icon.png?raw=true').content)
 
 			if packwiz_info.unsup_stable:
 				with output_zip.open("patches/com.unascribed.unsup.stable.json", mode="w") as patch:
