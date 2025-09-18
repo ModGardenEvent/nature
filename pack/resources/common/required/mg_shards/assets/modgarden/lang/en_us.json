@@ -1,0 +1,9 @@
+{
+	"shard_type.modgarden.daisy.description": "Daisy Shard",
+	"shard_type.modgarden.rose.description": "Rose Shard",
+	"shard_type.modgarden.sunflower.description": "Sunflower Shard",
+	"shard_type.modgarden.chrysanthemum.description": "Chrysanthemum Shard",
+	"shard_type.modgarden.cornflower.description": "Cornflower Shard",
+
+	"item.scattered_shards.shard_tablet": "Flower Basket"
+}
