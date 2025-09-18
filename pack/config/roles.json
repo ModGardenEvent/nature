@@ -1,7 +1,7 @@
 {
 	"team": {
 		"level": 100,
-		"includes": ["participant", "volunteer"],
+		"includes": ["base", "participant", "volunteer"],
 		"overrides": {
 			"permission_level": 4,
 			"permission_keys": {
@@ -20,20 +20,27 @@
 	},
 	"participant": {
 		"level": 15,
-		"includes": ["volunteer"],
+		"includes": ["base"],
 		"overrides": {
 			"permission_keys": {
-				"modgarden.participant": "allow",
-				"modgarden.volunteer": "deny"
+				"modgarden.participant": "allow"
 			}
 		}
 	},
 	"volunteer": {
 		"level": 10,
+		"includes": ["base"],
+		"overrides": {
+			"permission_keys": {
+				"modgarden.volunteer": "allow"
+			}
+		}
+	},
+	"base": {
+		"level": 9,
 		"overrides": {
 			"permission_level": 2,
 			"permission_keys": {
-				"modgarden.volunteer": "allow",
 				"worldedit.*": "allow",
 				"scattered_shards.command.award": "allow",
 				"scattered_shards.command.collect": "allow",
