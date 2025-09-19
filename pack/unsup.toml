@@ -10,6 +10,18 @@ description = "You do not accept the Axiom EULA, or do not wish to install Axiom
 id = "axiom_accept"
 name = "Accept"
 description = "<b>You affirm you have read and agree to the Axiom EULA, and wish to install Axiom.</b> You can find the Axiom EULA at https://axiom.moulberry.com/eula"
+[[flavor_groups.enhanced_visuals]]
+name = "Enhanced Visuals"
+side = "client"
+description = "Mod Garden: Nature adds a few mods that enhance the look of the map. If you want a more vanilla experience, disable this."
+[[flavor_groups.enhanced_visuals.choices]]
+id = "enhanced_visuals_enable"
+name = "Enable"
+description = "Install a few client-side aesthetics mods including Barriers Don't Block Rain, Particle Rain, and LambdaBetterGrass."
+[[flavor_groups.enhanced_visuals.choices]]
+id = "enhanced_visuals_disable"
+name = "Disable"
+description = "Don't install Enhanced Visuals mods."
 
 # [flavor_groups.worldedit]
 # name = "WorldEdit"
@@ -32,3 +44,13 @@ flavors="worldedit_sp"
 #
 [metafile.worldeditcui]
 flavors="worldedit_mp"
+
+[metafile.barriers-dont-block-rain]
+flavors="enhanced_visuals_enable"
+
+[metafile.lambdabettergrass]
+flavors="enhanced_visuals_enable"
+
+[metafile.particle-rain]
+flavors="enhanced_visuals_enable"
+
