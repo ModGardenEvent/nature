@@ -21,7 +21,7 @@ description = "Install a few client-side aesthetics mods including Barriers Don'
 [[flavor_groups.enhanced_visuals.choices]]
 id = "enhanced_visuals_disable"
 name = "Disable"
-description = "Don't install Enhanced Visuals mods."
+description = "Don't install Enhanced Visuals mods. Please note that Vanilla Tweaks will be enabled by default. You will have to disable it."
 
 # [flavor_groups.worldedit]
 # name = "WorldEdit"
