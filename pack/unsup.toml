@@ -10,7 +10,7 @@ description = "You do not accept the Axiom EULA, or do not wish to install Axiom
 id = "axiom_accept"
 name = "Accept"
 description = "<b>You affirm you have read and agree to the Axiom EULA, and wish to install Axiom.</b> You can find the Axiom EULA at https://axiom.moulberry.com/eula"
-[[flavor_groups.enhanced_visuals]]
+[flavor_groups.enhanced_visuals]
 name = "Enhanced Visuals"
 side = "client"
 description = "Mod Garden: Nature adds a few mods that enhance the look of the map. If you want a more vanilla experience, disable this."
