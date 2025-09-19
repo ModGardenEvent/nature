@@ -39,12 +39,6 @@ description = "Don't install Enhanced Visuals mods. Please note that Vanilla Twe
 [metafile.axiom-client]
 flavors="axiom_accept"
 
-[metafile.worldedit-client]
-flavors="worldedit_sp"
-#
-[metafile.worldeditcui]
-flavors="worldedit_mp"
-
 [metafile.barriers-dont-block-rain]
 flavors="enhanced_visuals_enable"
 
