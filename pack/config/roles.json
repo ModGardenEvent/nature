@@ -1,7 +1,7 @@
 {
 	"team": {
 		"level": 100,
-		"includes": ["base"],
+		"includes": ["builder"],
 		"overrides": {
 			"permission_level": 4,
 			"permission_keys": {
@@ -20,7 +20,7 @@
 	},
 	"participant": {
 		"level": 15,
-		"includes": ["base"],
+		"includes": ["builder"],
 		"overrides": {
 			"permission_keys": {
 				"modgarden.participant": "allow"
@@ -29,15 +29,15 @@
 	},
 	"volunteer": {
 		"level": 10,
-		"includes": ["base"],
+		"includes": ["builder"],
 		"overrides": {
 			"permission_keys": {
 				"modgarden.volunteer": "allow"
 			}
 		}
 	},
-	"base": {
-		"level": 9,
+	"builder": {
+		"level": 5,
 		"overrides": {
 			"permission_level": 2,
 			"permission_keys": {
@@ -49,7 +49,8 @@
 				"scattered_shards.modify_shard": "allow",
 				"armor_stand_editor.*": "allow",
 				"styledchat.set": "deny",
-				"styledchat.clear": "deny"
+				"styledchat.clear": "deny",
+				"flowerbed.non_adventure": "allow"
 			},
 			"command_feedback": true,
 			"entity_selectors": false,
