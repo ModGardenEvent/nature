@@ -73,16 +73,16 @@
 		"files": {
 			"mods/ambrosiac.pw.toml": {
 				"download": {
-					"hash": "7e096cb1eaea661483c73ccef7e5bcfb5a02ead324d16769640c8687f8efa4db35d5c43474c198f0a5c34620b8ce564a47551505d8b87aceca2ba1518de91a92",
+					"hash": "8d113784626048b324c24c8af04fa4fa4e5c8143a6bc0bc7bf1fde5180140b81193f078a8c06f86eac45fe9964a73bca0afb9a73922a88bba17c2acc98755433",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5GiCaNvf/versions/8ogypAf6/ambrosiac-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/5GiCaNvf/versions/MwiHWZvK/ambrosiac-0.1.2.jar"
 				},
-				"filename": "ambrosiac-1.0.0.jar",
+				"filename": "ambrosiac-0.1.2.jar",
 				"name": "Ambrosiac",
 				"side": "both"
 			}
 		},
-		"key": "c547297a190ddf7b5e2446360588a9f1f5c566f11b022fd5d6db4f76905aec50"
+		"key": "2ecd3dfe7bb0f27ba909fcd950a75bfcb8d16ab8ef5821d8afbaec22cd438345"
 	},
 	"genetica-flora": {
 		"files": {
@@ -103,16 +103,16 @@
 		"files": {
 			"mods/nemetona.pw.toml": {
 				"download": {
-					"hash": "e3a5c2ebbf407b3b9b90fafe2ce35c780029048a353ba7e7b2a8cdeee4f2345f5510849b49df848f906cce60ff1e4fd19cd41a5b6b2ca3ebdaa1242f1962fb56",
+					"hash": "adb27f022e128a95108a05af38a0421c98ae244bdc1890335723b1c7298cc095c08e7bdcfb63dba87c55bd0356bce7eeeef122d4dc0a4b402b4dfb6f7d769dc0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8LSUdWa7/versions/65WQUJFP/nemetona-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/8LSUdWa7/versions/cWId5JMt/nemetona-1.0.1-1.21.5a.jar"
 				},
-				"filename": "nemetona-1.0.0.jar",
+				"filename": "nemetona-1.0.1-1.21.5a.jar",
 				"name": "Nemetona",
 				"side": "both"
 			}
 		},
-		"key": "08abbe74cf38b4c678e36b66886289c6765815fb34019083646b5854ae2a200c"
+		"key": "342401f22e0200e8d639b9813f210d341fccdd42dd30ae24d8f156eb5d209389"
 	},
 	"pigs-eat-mushrooms": {
 		"files": {
