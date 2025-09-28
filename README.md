@@ -15,9 +15,9 @@ This modpack contains all submissions, and will later contain a showcase world.
 **Key Features**:
 
 - Witness the dawn of 11 mods, including Abysm, Minty Blends, and There's Always a Bigger Fish!
-- Explore a Fantastical bedroom-shaped world full of toys!
+- Explore the serene wild of Yuukaflower National Park, or stay the night in a cabin.
 - Find and earn collectible "petals", tracking booth visits, exploration, and mastery!
-- Discover secrets through walls, below floors, and hidden in plain sight.
+- Discover secrets hidden behind every hedge and spot of green (or pale grey!)
 
 <center>
 <img width="50%" alt="" src="https://asphodel.cc/resources/modgarden/snail.avif"/><br/>
