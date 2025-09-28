@@ -118,14 +118,6 @@ file = "mods/auroraslanterns.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/axiom-client.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/axiom-server.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 metafile = true
 
