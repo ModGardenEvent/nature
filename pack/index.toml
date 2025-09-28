@@ -91,6 +91,15 @@ file = "config/waila/waila_plugins.json5"
 file = "config/yosbr/options.txt"
 
 [[files]]
+file = "mods/Genetica Flora-fabric-0.1.0+1.21.5.jar"
+
+[[files]]
+file = "mods/abysm-0.0.3+1.21.5.jar"
+
+[[files]]
+file = "mods/ambrosiac-0.1.2.jar"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
@@ -137,12 +146,18 @@ file = "mods/better-narrator-error.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bigger_fish-fabric-1.0.2+1.21.5.jar"
+
+[[files]]
 file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/compost-fabric-1.21.5-2.1.1.jar"
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -173,6 +188,9 @@ metafile = true
 
 [[files]]
 file = "mods/flowerbed-0.5.1+1.21.5.jar"
+
+[[files]]
+file = "mods/geckolib-fabric-1.21.5-5.1.0.jar"
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
@@ -210,8 +228,14 @@ metafile = true
 file = "mods/map_utils-2.3.1+1.21.5.modgarden.1.jar"
 
 [[files]]
+file = "mods/mintyblends-1.1.1-1.21.5.jar"
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/nemetona-1.0.1-1.21.5a.jar"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
@@ -220,6 +244,9 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/pigs-eat-mushrooms-1.0.0.jar"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
@@ -262,6 +289,9 @@ file = "mods/spawnanywhere.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spud_slingers-1.0.1+1.21.5.jar"
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 metafile = true
 
@@ -280,6 +310,9 @@ metafile = true
 [[files]]
 file = "mods/tmyk.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/variantlib-fabric-0.2.1+1.21.5.jar"
 
 [[files]]
 file = "mods/variantlib_nature-1.0.0+1.21.5.jar"
@@ -301,12 +334,18 @@ file = "mods/wthit.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/x-bar-theory-1.0.6.jar"
+
+[[files]]
 file = "mods/yacl.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/zeeraket-1.0.0.jar"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/modgarden/lang/en_us.json"
