@@ -2,7 +2,7 @@
 <center><img alt="The entrance to Yuukaflower National Park" src="https://asphodel.cc/resources/modgarden/yuukaflower.avif" /></center>
 
 <center>
-Welcome to The Yuukaflower Forest National Park - Where **Nature** Awaits <br/>
+Welcome to The Yuukaflower Forest National Park - Where <strong>Nature</strong> Awaits <br/>
 A collaboration between 16 modders, as hosted by <a href="https://modgarden.net">Mod Garden</a>.
 </center>
 
