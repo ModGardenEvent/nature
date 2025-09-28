@@ -186,4 +186,4 @@ soundCategory_neutral:0.7
 soundCategory_player:0.7
 soundCategory_ambient:0.7
 soundCategory_voice:0.7
-resourcePacks:["vanilla","fabric","srl_cm/mg_shards","srl_rp/Unsanded-1.1.1-custom.zip","srl_rp/mg_branding","srl_rp/mg_emoji","srl_rp/twemoji.zip","file/VanillaTweaks_r181263_MC1.21.x.zip","lambdabettergrass:default"]
+resourcePacks:["vanilla","fabric","srl_cm/mg_shards","srl_rp/Unsanded-1.1.1-custom.zip","srl_rp/mg_branding","srl_rp/mg_emoji","srl_rp/twemoji.zip","file/VanillaTweaks_r621179_MC1.21.x.zip","lambdabettergrass:default"]
