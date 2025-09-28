@@ -203,10 +203,6 @@ file = "mods/lmft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/macos-input-fixes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/map_utils-2.3.1+1.21.5.modgarden.1.jar"
 
 [[files]]
