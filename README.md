@@ -31,3 +31,4 @@ A full list of credits for each submitted mod can be found on the [submissions p
 
 This modpack and world was originally showcased on a multiplayer server in the fall of 2025.</br>
 Check out the [Mod Garden website](https://modgarden.net) to see more events, or join [our discord](https://discord.modgarden.net/) to tour or participate in the next event live!
+
