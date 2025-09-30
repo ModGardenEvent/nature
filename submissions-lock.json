@@ -113,16 +113,16 @@
 			},
 			"mods/mintyblends.pw.toml": {
 				"download": {
-					"hash": "4dc54d9a611b8b8556abaed6d406cc66e59dd1239003557f3d86fdc7440d5b8beefd899d272e4cdb2157db506c51093be698fb7c7f706cd17fae10afb29a3f32",
+					"hash": "6b290248d672f7e49055ae4de01975cc2fa449ab1c2cbeacfb2e28a56546419aafbf34fa94c4abc27d1710898b14ab88e6086a5daaf2bdedfb4d2da55c33b4c8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/x4c552hp/versions/VE166JQc/mintyblends-1.0.1-1.21.5.jar"
+					"url": "https://cdn.modrinth.com/data/x4c552hp/versions/u7EH4Of3/mintyblends-1.1.1-1.21.5.jar"
 				},
-				"filename": "mintyblends-1.0.1-1.21.5.jar",
+				"filename": "mintyblends-1.1.1-1.21.5.jar",
 				"name": "Minty Blends",
 				"side": "both"
 			}
 		},
-		"key": "facfe3a6ffd4d226807f9afe5cf132b718043ed7d3ebf0594be6f36d1814da21"
+		"key": "3f21d83d64fec426f593687c5d31030bad80597584d38a593a80262ab82abb2e"
 	},
 	"nemetona": {
 		"files": {
@@ -138,6 +138,31 @@
 			}
 		},
 		"key": "342401f22e0200e8d639b9813f210d341fccdd42dd30ae24d8f156eb5d209389"
+	},
+	"pigs-eat-mushrooms": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+				},
+				"filename": "fabric-api-0.128.2+1.21.5.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/pigs-eat-mushrooms.pw.toml": {
+				"download": {
+					"hash": "09d8f01bc5720f32ecab018fe25cce05c5f73ccfc79eabd1d02896cdc07b210d8d24f6034b4c44fa4d6e4bac45462dcd362ad21feaf31021e1e8ad9d70c994a1",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/sR4ZK4n6/versions/e4jgavCm/pigs-eat-mushrooms-1.0.0.jar"
+				},
+				"filename": "pigs-eat-mushrooms-1.0.0.jar",
+				"name": "Pigs Eat Mushrooms",
+				"side": "server"
+			}
+		},
+		"key": "7bd5a132665dbfbf0304f8a89c79ecc23b3e269100dd341822af54c4ae71c132"
 	},
 	"spud_slingers": {
 		"files": {
