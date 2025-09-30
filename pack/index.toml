@@ -172,7 +172,7 @@ file = "mods/floralie.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/flowerbed-0.5.1+1.21.5.jar"
+file = "mods/flowerbed-0.6.1+1.21.5.jar"
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
@@ -278,7 +278,7 @@ file = "mods/tmyk.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/variantlib_nature-1.0.0+1.21.5.jar"
+file = "mods/variantlib_nature-1.0.2+1.21.5.jar"
 
 [[files]]
 file = "mods/worldedit-client.toml"
@@ -380,10 +380,19 @@ file = "resources/common/required/mg_shards/data/scattered_shards/shard_type/typ
 file = "resources/common/required/mg_shards/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/variantlib_shard/data/modgarden/advancement/trigger/breed_lop_eared_rabbit.json"
+
+[[files]]
+file = "resources/datapack/required/variantlib_shard/data/modgarden/function/trigger/breed_lop_eared_rabbit.mcfunction"
+
+[[files]]
+file = "resources/datapack/required/variantlib_shard/pack.mcmeta"
+
+[[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
 
 [[files]]
-file = "resources/resourcepack/required/VanillaTweaks_r181263_MC1.21.x.zip"
+file = "resources/resourcepack/required/VanillaTweaks_r593684_MC1.21.x.zip"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/glowcase/lang/en_us.json"
