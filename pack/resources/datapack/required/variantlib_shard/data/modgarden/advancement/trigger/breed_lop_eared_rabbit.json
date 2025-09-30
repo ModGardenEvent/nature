@@ -1,0 +1,21 @@
+{
+    "criteria": {
+        "breed_lop_eared_rabbit": {
+            "trigger": "minecraft:bred_animals",
+            "conditions": {
+                "child": {
+                    "type_specific": {
+                        "type": "variantlib:variant/rabbit",
+                        "variants": [
+                            "variantlib_nature:gold_lop",
+                            "variantlib_nature:white_lop"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "modgarden:trigger/breed_lop_eared_rabbit"
+    }
+}
