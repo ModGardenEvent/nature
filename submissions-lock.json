@@ -3,21 +3,21 @@
 		"files": {
 			"mods/abysm.pw.toml": {
 				"download": {
-					"hash": "51388f61278d0a3fb6d6293c8093964dd6ed0c2ba59a5573e9612cb44b54d62dbb1b3d8e290ed0809018e2acae7e2009b327ce627c5cbe6503005e443353e43d",
+					"hash": "05d7417a5d27a844def500c6d44dd37bbd57513e457d36e09eb7ef6c178fd7617910d3a7ed6b583d08b1ad802b804aad8060dac8b4511220a20beb817f97591f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Bhmgrvkz/versions/hv4AUick/abysm-0.0.3%2B1.21.5.jar"
+					"url": "https://cdn.modrinth.com/data/Bhmgrvkz/versions/y9maNjjD/abysm-0.0.5-modgarden%2B1.21.5.jar"
 				},
-				"filename": "abysm-0.0.3+1.21.5.jar",
+				"filename": "abysm-0.0.5-modgarden+1.21.5.jar",
 				"name": "Abysm",
 				"side": "both"
 			},
 			"mods/biolith.pw.toml": {
 				"download": {
-					"hash": "f4477b668389f076e159360a0cfd4acdb5204287a29108a8be5c1abec47a0bff7f26fd0a0ee096775a1f55206184e39f5a5362e9f225a7e4a0b075a9de7da9c7",
+					"hash": "5ce2fda35bb0da7578b7a40e7f67310d8456cb914ace5d49672373ca49ab48514e92d463900af3c44d3af05fe32aa52f71fe852c6ab666501b76395fad4f284a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/RuSXfMNu/biolith-fabric-3.3.4.jar"
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/cu1eK0eF/biolith-fabric-3.3.5.jar"
 				},
-				"filename": "biolith-fabric-3.3.4.jar",
+				"filename": "biolith-fabric-3.3.5.jar",
 				"name": "Biolith",
 				"side": "server"
 			},
@@ -42,7 +42,7 @@
 				"side": "both"
 			}
 		},
-		"key": "8d2758ea2f58fff03dc9561cb4e3c5f7cd8593618af3cbf197e3a65ce63a6d77"
+		"key": "827fbb8c15942dc9c5eb23b9c7d467dee6712534d1ca5b8a0082151cb69fa184"
 	},
 	"always-a-bigger-fish": {
 		"files": {
@@ -183,16 +183,16 @@
 		"files": {
 			"mods/variant-lib.pw.toml": {
 				"download": {
-					"hash": "f6b52b272132e4d23c1207580749b29179cf94d418e8d198ae5689c307a5ea0a16651176944f249201fd8f1d0e5303a5996725bb48e251f9bc70e187367edbd1",
+					"hash": "dc1a03389ff0a32a053d00479eadbe10f405fc7e4d0747fb355b237de7fa1f16e9a06005b3c933fde6895002900b64580aa914540d00bcbdada9982bcbd76650",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LQCrGzOR/versions/CvCDHvhY/variantlib-fabric-0.2.1%2B1.21.5.jar"
+					"url": "https://cdn.modrinth.com/data/LQCrGzOR/versions/hQ8df2Nl/variantlib-fabric-0.3.1%2B1.21.5.jar"
 				},
-				"filename": "variantlib-fabric-0.2.1+1.21.5.jar",
+				"filename": "variantlib-fabric-0.3.1+1.21.5.jar",
 				"name": "Variant Lib",
 				"side": "both"
 			}
 		},
-		"key": "4395c0cb779ccf5d38eda2161b706f56c08bc3653aa692b5b6f5022fbd8f7550"
+		"key": "baecffd784cbfad5903c0118b59fa3c066d5a904d26d7df755d6c7fa77e695ed"
 	},
 	"x-bar-theory": {
 		"files": {
