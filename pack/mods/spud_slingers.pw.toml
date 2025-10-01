@@ -1,0 +1,13 @@
+name = "Spud Slingers"
+filename = "spud_slingers-1.0.2+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XkIeaZ7/versions/PfEvJNSt/spud_slingers-1.0.2%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "ccbdbeb0476ad723a3b8d669b3b3f7dd312d2dc60b0dbcea2516b555ddc33adce76b3490b941a099841de82d33d87695681382dadb2646662df68c66548b3121"
+
+[update]
+[update.modrinth]
+mod-id = "1XkIeaZ7"
+version = "PfEvJNSt"

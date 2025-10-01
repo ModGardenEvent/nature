@@ -1,0 +1,13 @@
+name = "Abysm"
+filename = "abysm-0.0.5-modgarden+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bhmgrvkz/versions/y9maNjjD/abysm-0.0.5-modgarden%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "05d7417a5d27a844def500c6d44dd37bbd57513e457d36e09eb7ef6c178fd7617910d3a7ed6b583d08b1ad802b804aad8060dac8b4511220a20beb817f97591f"
+
+[update]
+[update.modrinth]
+mod-id = "Bhmgrvkz"
+version = "y9maNjjD"

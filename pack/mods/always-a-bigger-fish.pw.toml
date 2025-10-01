@@ -1,0 +1,13 @@
+name = "There's Always a Bigger Fish"
+filename = "bigger_fish-fabric-1.0.3+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tKKzcK6F/versions/h37IAbHT/bigger_fish-fabric-1.0.3%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "c779ffd7d498ac68f23aa63289eb93fa63ec1c1561e5682a2d396cc7630efaa886955064cb814669893f7b0955e911f39373ee4da7d02a659274bd77aa7e7cff"
+
+[update]
+[update.modrinth]
+mod-id = "tKKzcK6F"
+version = "h37IAbHT"

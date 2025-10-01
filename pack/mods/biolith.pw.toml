@@ -1,0 +1,13 @@
+name = "Biolith"
+filename = "biolith-fabric-3.3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/cu1eK0eF/biolith-fabric-3.3.5.jar"
+hash-format = "sha512"
+hash = "5ce2fda35bb0da7578b7a40e7f67310d8456cb914ace5d49672373ca49ab48514e92d463900af3c44d3af05fe32aa52f71fe852c6ab666501b76395fad4f284a"
+
+[update]
+[update.modrinth]
+mod-id = "iGEl6Crx"
+version = "cu1eK0eF"

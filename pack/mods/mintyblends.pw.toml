@@ -1,0 +1,13 @@
+name = "Minty Blends"
+filename = "mintyblends-1.1.1-1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x4c552hp/versions/u7EH4Of3/mintyblends-1.1.1-1.21.5.jar"
+hash-format = "sha512"
+hash = "6b290248d672f7e49055ae4de01975cc2fa449ab1c2cbeacfb2e28a56546419aafbf34fa94c4abc27d1710898b14ab88e6086a5daaf2bdedfb4d2da55c33b4c8"
+
+[update]
+[update.modrinth]
+mod-id = "x4c552hp"
+version = "u7EH4Of3"

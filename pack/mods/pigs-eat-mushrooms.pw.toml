@@ -1,0 +1,13 @@
+name = "Pigs Eat Mushrooms"
+filename = "pigs-eat-mushrooms-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sR4ZK4n6/versions/e4jgavCm/pigs-eat-mushrooms-1.0.0.jar"
+hash-format = "sha512"
+hash = "09d8f01bc5720f32ecab018fe25cce05c5f73ccfc79eabd1d02896cdc07b210d8d24f6034b4c44fa4d6e4bac45462dcd362ad21feaf31021e1e8ad9d70c994a1"
+
+[update]
+[update.modrinth]
+mod-id = "sR4ZK4n6"
+version = "e4jgavCm"

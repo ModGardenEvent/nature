@@ -97,7 +97,19 @@ file = "mods/Genetica Flora-fabric-0.1.0+1.21.5.jar"
 file = "mods/abysm-0.0.3+1.21.5.jar"
 
 [[files]]
+file = "mods/abysm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/always-a-bigger-fish.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ambrosiac-0.1.2.jar"
+
+[[files]]
+file = "mods/ambrosiac.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -141,6 +153,10 @@ metafile = true
 file = "mods/bigger_fish-fabric-1.0.2+1.21.5.jar"
 
 [[files]]
+file = "mods/biolith.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 metafile = true
 
@@ -150,6 +166,10 @@ metafile = true
 
 [[files]]
 file = "mods/compost-fabric-1.21.5-2.1.1.jar"
+
+[[files]]
+file = "mods/compost.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -183,6 +203,14 @@ file = "mods/flowerbed-0.5.1+1.21.5.jar"
 
 [[files]]
 file = "mods/geckolib-fabric-1.21.5-5.1.0.jar"
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/genetica-flora.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
@@ -223,11 +251,19 @@ file = "mods/map_utils-2.3.1+1.21.5.modgarden.1.jar"
 file = "mods/mintyblends-1.1.1-1.21.5.jar"
 
 [[files]]
+file = "mods/mintyblends.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/nemetona-1.0.1-1.21.5a.jar"
+
+[[files]]
+file = "mods/nemetona.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
@@ -239,6 +275,10 @@ metafile = true
 
 [[files]]
 file = "mods/pigs-eat-mushrooms-1.0.0.jar"
+
+[[files]]
+file = "mods/pigs-eat-mushrooms.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
@@ -284,6 +324,10 @@ metafile = true
 file = "mods/spud_slingers-1.0.1+1.21.5.jar"
 
 [[files]]
+file = "mods/spud_slingers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 metafile = true
 
@@ -301,6 +345,10 @@ metafile = true
 
 [[files]]
 file = "mods/tmyk.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/variant-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -329,6 +377,10 @@ metafile = true
 file = "mods/x-bar-theory-1.0.6.jar"
 
 [[files]]
+file = "mods/x-bar-theory.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 metafile = true
 
@@ -338,6 +390,10 @@ metafile = true
 
 [[files]]
 file = "mods/zeeraket-1.0.0.jar"
+
+[[files]]
+file = "mods/zeeraket.pw.toml"
+metafile = true
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/modgarden/lang/en_us.json"

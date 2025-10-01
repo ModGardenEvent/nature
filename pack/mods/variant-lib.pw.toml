@@ -1,0 +1,13 @@
+name = "Variant Lib"
+filename = "variantlib-fabric-0.3.2+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQCrGzOR/versions/Qt7I0urr/variantlib-fabric-0.3.2%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "96726ded53e28a52cbe4d1320b4214928cb50301dfde33ccbfeb2596d8a9da2742042748bcf3e1bea8eb483eef5383fa5ffbad9205a815dab38e7eb07cf99a52"
+
+[update]
+[update.modrinth]
+mod-id = "LQCrGzOR"
+version = "Qt7I0urr"

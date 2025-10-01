@@ -1,0 +1,13 @@
+name = "Nemetona"
+filename = "nemetona-1.0.1-1.21.5a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8LSUdWa7/versions/cWId5JMt/nemetona-1.0.1-1.21.5a.jar"
+hash-format = "sha512"
+hash = "adb27f022e128a95108a05af38a0421c98ae244bdc1890335723b1c7298cc095c08e7bdcfb63dba87c55bd0356bce7eeeef122d4dc0a4b402b4dfb6f7d769dc0"
+
+[update]
+[update.modrinth]
+mod-id = "8LSUdWa7"
+version = "cWId5JMt"
