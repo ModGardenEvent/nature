@@ -1,13 +1,13 @@
 name = "Aurora's Lanterns"
-filename = "auroraslanterns-1.2.7+1.21.5.jar"
+filename = "auroraslanterns-1.2.8+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xABbFTq3/versions/izdenXtU/auroraslanterns-1.2.7%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/xABbFTq3/versions/eMoKPxOM/auroraslanterns-1.2.8%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "615c95da9463887ff483df01fba99fb23224ac6e604970fe9df8cbfcce376ab9a37b2dfed47da6593d4b04e38ea46270dcb7c3f54cfd09a3f0c66045d6a8ac4f"
+hash = "ae4bade5c297576a3e5537d17573c2ae60ae751ebbb0c4a9c7e63ee488e7aec31ce372c16a69473cd3a225c0ef783a4716271af811dc4bad559a7361c9db20ba"
 
 [update]
 [update.modrinth]
 mod-id = "xABbFTq3"
-version = "izdenXtU"
+version = "eMoKPxOM"
