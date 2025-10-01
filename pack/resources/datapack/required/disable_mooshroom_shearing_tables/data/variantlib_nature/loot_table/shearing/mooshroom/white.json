@@ -1,0 +1,5 @@
+{
+	"type": "minecraft:shearing",
+	"pools": [],
+	"random_sequence": "variantlib_nature:shearing/mooshroom/white"
+}
