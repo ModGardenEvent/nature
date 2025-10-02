@@ -3,11 +3,11 @@
 		"files": {
 			"mods/abysm.pw.toml": {
 				"download": {
-					"hash": "05d7417a5d27a844def500c6d44dd37bbd57513e457d36e09eb7ef6c178fd7617910d3a7ed6b583d08b1ad802b804aad8060dac8b4511220a20beb817f97591f",
+					"hash": "88e6980ad39325acb3ad19f7c464e22c923e85db284682d6acda38b8ad5b10efa44ed3939df7ddd9dea9f44c25233b20f5198458fd2a32d5178efbe80d3bc4e8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Bhmgrvkz/versions/y9maNjjD/abysm-0.0.5-modgarden%2B1.21.5.jar"
+					"url": "https://cdn.modrinth.com/data/Bhmgrvkz/versions/Tp1fZTCQ/abysm-0.0.6-modgarden%2B1.21.5.jar"
 				},
-				"filename": "abysm-0.0.5-modgarden+1.21.5.jar",
+				"filename": "abysm-0.0.6-modgarden+1.21.5.jar",
 				"name": "Abysm",
 				"side": "both"
 			},
@@ -42,7 +42,7 @@
 				"side": "both"
 			}
 		},
-		"key": "827fbb8c15942dc9c5eb23b9c7d467dee6712534d1ca5b8a0082151cb69fa184"
+		"key": "a0647147db64807463b1eb73ec117e7459f9e8f7ad9fd8189856159acbdf3f4b"
 	},
 	"always-a-bigger-fish": {
 		"files": {
