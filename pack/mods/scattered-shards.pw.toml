@@ -1,15 +1,15 @@
 name = "scattered-shards"
-filename = "scattered-shards-1.9.0-backport.1+1.21.5.jar"
+filename = "scattered-shards-1.9.3-backport.2+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ModFest/scattered-shards/releases/download/1.9.0-backport-1.21.5/scattered-shards-1.9.0-backport.1%2B1.21.5.jar"
+url = "https://github.com/ModGardenEvent/scattered-shards/releases/download/1.9.3-backport-1.21.5/scattered-shards-1.9.3-backport.2%2B1.21.5.jar"
 hash-format = "sha256"
-hash = "25e8e05e4d946682fa64101b8d97925fe7c55f93cb6e11acea4cad43c515144f"
+hash = "44b96e4d18f5696cb89480f51887ccd7c7f1e2c31fdc6c3811a1db15c1ba822a"
 
 [update]
 [update.github]
 branch = "1.21.5-backport"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "ModFest/scattered-shards"
-tag = "1.9.0-backport-1.21.5"
+slug = "ModGardenEvent/scattered-shards"
+tag = "1.9.3-backport-1.21.5"

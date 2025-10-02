@@ -184,7 +184,8 @@ file = "mods/floralie.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/flowerbed-0.6.1+1.21.5.jar"
+file = "mods/flowerbed.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -318,7 +319,7 @@ file = "mods/variant-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/variantlib_nature-1.0.2+1.21.5.jar"
+file = "mods/variantlib_nature-1.0.3+1.21.5.jar"
 
 [[files]]
 file = "mods/worldedit-client.toml"
@@ -465,6 +466,33 @@ file = "resources/resourcepack/required/VanillaTweaks_r593684_MC1.21.x.zip"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/glowcase/lang/en_us.json"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_0.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_1.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_2.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_3.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_4.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_5.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/edition.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/minceraft.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/minecraft.png"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/generic/icon-background.png"
