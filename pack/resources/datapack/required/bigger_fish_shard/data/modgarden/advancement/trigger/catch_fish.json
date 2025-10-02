@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "tier_two": {
+      "conditions": {
+        "item": {
+          "items": "#bigger_fish:tier_two_fish"
+        }
+      },
+      "trigger": "minecraft:fishing_rod_hooked"
+    },
+    "tier_three": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": "#bigger_fish:tier_three_fish"
+        }
+      }
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.fishy_business.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:fishing_rod"
+    },
+    "title": {
+      "translate": "advancements.husbandry.fishy_business.title"
+    }
+  },
+  "requirements": [
+    [
+      "tier_two",
+      "tier_three"
+    ]
+  ],
+  "rewards": {
+    "function": "modgarden:trigger/catch_fish"
+  }
+}
