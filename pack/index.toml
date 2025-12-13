@@ -279,6 +279,10 @@ file = "mods/tmyk.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/variant-lib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/variantlib_nature-1.0.3+1.21.5.jar"
 
 [[files]]
