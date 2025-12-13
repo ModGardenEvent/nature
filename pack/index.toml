@@ -717,6 +717,12 @@ file = "resources/resourcepack/required/mg_emoji/pack.mcmeta"
 file = "resources/resourcepack/required/mg_emoji/styled_chat_emoji.json"
 
 [[files]]
+file = "resources/resourcepack/required/mg_lang/assets/modgarden/lang/en_us.json"
+
+[[files]]
+file = "resources/resourcepack/required/mg_lang/pack.mcmeta"
+
+[[files]]
 file = "resources/resourcepack/required/twemoji.zip"
 
 [[files]]
@@ -724,9 +730,6 @@ file = "server-icon.png"
 
 [[files]]
 file = "server.properties"
-
-[[files]]
-file = "servers.dat"
 
 [[files]]
 file = "unsup.toml"
